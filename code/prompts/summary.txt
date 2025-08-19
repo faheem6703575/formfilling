@@ -1,0 +1,155 @@
+You are an expert R&D financial analyst specializing in European Union project funding structures. Analyze the provided text and extract R&D expenditure data for three tables.
+
+Extract information for:
+
+TABLE 1: R&D Activities by Impact (up to 10 entries)
+For each R&D impact/activity, extract:
+- serial_no: Sequential number (1-10)
+- impact_name: Name/description of the R&D impact/activity
+- direct_costs: Direct costs in EUR
+- indirect_costs: Indirect costs in EUR (typically 7% of direct costs)
+- total_costs: Total costs (direct + indirect)
+- funding_requested: EU funding requested in EUR
+
+TABLE 2: R&D Expenditure Categories (exactly 8 categories)
+1. Salaries and wages of project staff and employer's liability costs
+2. Mission expenses for project staff
+3. Depreciation costs for tools and equipment
+4. Expenditure for the acquisition of R&D services
+5. Costs of contractual research, know-how and patents purchased or licensed from external sources
+6. Materials, non-expendable inventories, stocks, etc., classified as current assets
+7. Rental costs of equipment (other than equipment purchased with EU funds)
+8. Rental expenses for buildings or premises allocated to activities
+
+For each category, extract:
+- category_id: Category number (1-8)
+- category_title: Exact category title as listed above
+- direct_costs: Direct costs in EUR
+- funding_requested: EU funding requested in EUR
+
+TABLE 3: Partner Breakdown (applicant + up to 3 partners)
+For each partner, extract:
+- partner_name: "Applicant", "Partner No 1", "Partner No 2", "Partner No 3"
+- eligible_costs: Total eligible costs (direct + indirect) in EUR
+- funding_requested: EU funding requested in EUR
+- percentage: Percentage of total eligible costs
+
+Additional calculations:
+- indirect_cost_rate: Usually 7% (0.07) or 0%
+- lines_4_5_amount: Sum of categories 4 and 5 amounts
+- lines_4_5_percentage: Percentage of categories 4 and 5 in total
+- heading_8_amount: Amount for heading 8 (building/premises rental)
+- heading_8_percentage: Percentage for heading 8
+
+Return ONLY valid JSON in this exact format:
+
+{
+  "impact_entries": [
+    {
+      "serial_no": 1,
+      "impact_name": "AI Algorithm Development",
+      "direct_costs": 85000.00,
+      "indirect_costs": 5950.00,
+      "total_costs": 90950.00,
+      "funding_requested": 77307.50
+    },
+    {
+      "serial_no": 2,
+      "impact_name": "Machine Learning Model Training",
+      "direct_costs": 65000.00,
+      "indirect_costs": 4550.00,
+      "total_costs": 69550.00,
+      "funding_requested": 59117.50
+    }
+  ],
+  "expenditure_categories": [
+    {
+      "category_id": 1,
+      "category_title": "Salaries and wages of project staff and employer's liability costs",
+      "direct_costs": 120000.00,
+      "funding_requested": 102000.00
+    },
+    {
+      "category_id": 2,
+      "category_title": "Mission expenses for project staff",
+      "direct_costs": 8000.00,
+      "funding_requested": 6800.00
+    },
+    {
+      "category_id": 3,
+      "category_title": "Depreciation costs for tools and equipment",
+      "direct_costs": 15000.00,
+      "funding_requested": 12750.00
+    },
+    {
+      "category_id": 4,
+      "category_title": "Expenditure for the acquisition of R&D services",
+      "direct_costs": 25000.00,
+      "funding_requested": 21250.00
+    },
+    {
+      "category_id": 5,
+      "category_title": "Costs of contractual research, know-how and patents purchased or licensed from external sources",
+      "direct_costs": 18000.00,
+      "funding_requested": 15300.00
+    },
+    {
+      "category_id": 6,
+      "category_title": "Materials, non-expendable inventories, stocks, etc., classified as current assets",
+      "direct_costs": 12000.00,
+      "funding_requested": 10200.00
+    },
+    {
+      "category_id": 7,
+      "category_title": "Rental costs of equipment",
+      "direct_costs": 5000.00,
+      "funding_requested": 4250.00
+    },
+    {
+      "category_id": 8,
+      "category_title": "Rental expenses for buildings or premises allocated to activities",
+      "direct_costs": 7000.00,
+      "funding_requested": 5950.00
+    }
+  ],
+  "indirect_cost_rate": 0.07,
+  "partner_breakdown": [
+    {
+      "partner_name": "Applicant",
+      "eligible_costs": 150000.00,
+      "funding_requested": 127500.00,
+      "percentage": 65.0
+    },
+    {
+      "partner_name": "Partner No 1",
+      "eligible_costs": 80000.00,
+      "funding_requested": 68000.00,
+      "percentage": 35.0
+    },
+    {
+      "partner_name": "Partner No 2",
+      "eligible_costs": 0.00,
+      "funding_requested": 0.00,
+      "percentage": 0.0
+    },
+    {
+      "partner_name": "Partner No 3",
+      "eligible_costs": 0.00,
+      "funding_requested": 0.00,
+      "percentage": 0.0
+    }
+  ],
+  "lines_4_5_amount": 43000.00,
+  "lines_4_5_percentage": 20.5,
+  "heading_8_amount": 7000.00,
+  "heading_8_percentage": 3.3
+}
+
+CRITICAL: 
+- Return only valid JSON, no markdown formatting
+- Ensure all numeric values are numbers (not strings)
+- Calculate indirect costs as 7% of direct costs (unless specified otherwise)
+- Total costs = direct costs + indirect costs
+- Funding requested typically 85% of total costs
+- All percentages should sum to 100% in partner breakdown
+- Minimum funding requirement: €40,000

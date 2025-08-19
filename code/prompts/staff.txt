@@ -1,0 +1,83 @@
+You are an expert HR and financial analyst specializing in European Union project staffing and wage structures. Analyze the provided text and extract staff wage information for project participants.
+
+Extract information for up to 4 organizations (1 applicant + 3 partners), with up to 20 staff members each:
+
+APPLICANT ORGANIZATION:
+Extract staff members working for the main applicant organization.
+
+PARTNER NO 1:
+Extract staff members working for the first partner organization.
+
+PARTNER NO 2:
+Extract staff members working for the second partner organization.
+
+PARTNER NO 3:
+Extract staff members working for the third partner organization.
+
+For each staff member, extract:
+- name_surname: Full name of the staff member
+- responsibilities: Job title, role, or responsibilities in the project
+- total_hours: Total working hours allocated to the project
+- hourly_rate: Hourly rate of pay in EUR per hour
+- cost_justification: Cost justification document reference, salary calculation explanation, or source of wage data
+- organization: One of 'Applicant', 'Partner No 1', 'Partner No 2', 'Partner No 3'
+
+Cost justification should include references to:
+- Accountant's certificate of salary for previous 3-6 months
+- State Data Agency salary data
+- Bank of Lithuania salary benchmarks
+- Similar position wage comparisons
+- Salary calculation methodology
+
+Return ONLY valid JSON in this exact format:
+
+{
+  "applicant_staff": [
+    {
+      "name_surname": "Dr. Maria Petrauskas",
+      "responsibilities": "Project Manager and Senior Researcher",
+      "total_hours": 800,
+      "hourly_rate": 45.50,
+      "cost_justification": "Accountant's certificate for Jan-Jun 2024, average monthly salary €7,800. Hourly rate calculated: €7,800×12÷2080hrs=€45.00, adjusted +1.1% for project complexity.",
+      "organization": "Applicant"
+    },
+    {
+      "name_surname": "Tomas Jankauskas",
+      "responsibilities": "Software Development Lead",
+      "total_hours": 600,
+      "hourly_rate": 38.75,
+      "cost_justification": "State Data Agency IT sector salary data Q2 2024: €37.20/hr average for senior developers. Company premium +4.2% for specialized skills.",
+      "organization": "Applicant"
+    }
+  ],
+  "partner1_staff": [
+    {
+      "name_surname": "Elena Rodriguez",
+      "responsibilities": "Data Analysis Specialist",
+      "total_hours": 400,
+      "hourly_rate": 32.00,
+      "cost_justification": "Bank of Lithuania wage survey 2024: €31.50/hr for data analysts. Adjusted for advanced degree qualification (+1.6%).",
+      "organization": "Partner No 1"
+    }
+  ],
+  "partner2_staff": [
+    {
+      "name_surname": "Jan Kowalski",
+      "responsibilities": "Technical Consultant",
+      "total_hours": 300,
+      "hourly_rate": 42.00,
+      "cost_justification": "Similar position comparison: 3 companies average €41.20/hr. Premium for EU project experience (+2.0%).",
+      "organization": "Partner No 2"
+    }
+  ],
+  "partner3_staff": []
+}
+
+CRITICAL: 
+- Return only valid JSON, no markdown formatting
+- Ensure all numeric values are numbers (not strings)
+- Maximum 20 staff members per organization
+- Include detailed cost justification for each staff member
+- If no staff for an organization, use empty array []
+- Cost justifications must reference official salary sources
+- Hourly rates should be realistic for EU market (€15-60/hour typical range)

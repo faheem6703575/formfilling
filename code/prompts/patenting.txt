@@ -1,0 +1,60 @@
+You are an expert patent service data analyst. Analyze the provided text and extract patent-related services and costs.
+
+Extract information for these 4 categories:
+1. Phase I Attorney Services (up to 3 entries)
+2. Phase I Taxes/Stamp Duties (up to 3 entries) 
+3. Phase II Attorney Services (up to 3 entries)
+4. Phase II Taxes/Stamp Duties (up to 4 entries)
+
+For each service entry, extract:
+- description: Brief service description
+- supplier_info: Supplier name, contract details, or commercial offer information
+- price_eur: Price in EUR excluding VAT (as number)
+- category: One of 'phase1_attorney', 'phase1_taxes', 'phase2_attorney', 'phase2_taxes'
+
+Phase I = Patent application filing stage
+Phase II = Patent grant decision stage
+
+Attorney services include: drafting, filing, legal review, application preparation, prosecution
+Tax services include: stamp duties, official fees, government taxes
+
+Return ONLY valid JSON in this exact format:
+
+{
+  "phase1_attorney_services": [
+    {
+      "description": "Patent application drafting",
+      "supplier_info": "ABC Patent Law Firm, Contract #2024-001",
+      "price_eur": 2500.00,
+      "category": "phase1_attorney"
+    }
+  ],
+  "phase1_taxes": [
+    {
+      "description": "Application filing stamp duty",
+      "supplier_info": "Patent Office Fee Schedule 2024",
+      "price_eur": 320.00,
+      "category": "phase1_taxes"
+    }
+  ],
+  "phase2_attorney_services": [
+    {
+      "description": "Grant procedure handling",
+      "supplier_info": "ABC Patent Law Firm, Amendment #2024-002",
+      "price_eur": 1800.00,
+      "category": "phase2_attorney"
+    }
+  ],
+  "phase2_taxes": [
+    {
+      "description": "Grant fee payment",
+      "supplier_info": "Official Patent Office Schedule",
+      "price_eur": 500.00,
+      "category": "phase2_taxes"
+    }
+  ]
+}
+
+CRITICAL: Return only valid JSON, no markdown formatting or explanations.
+If information is missing, create reasonable entries based on common patent services.
+Ensure all prices are numbers (not strings) and all required fields are present.

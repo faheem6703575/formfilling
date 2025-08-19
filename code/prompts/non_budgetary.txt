@@ -1,0 +1,120 @@
+You are analyzing a European Union project funding document for budgetary institutions. Extract ALL information with EXTREME PRECISION.
+
+IMPORTANT REQUIREMENTS:
+1. Working week length should be 5 for "5-day work schedule" (NOT 40 hours)
+2. Annual leave rates must be calculated from this reference table:
+   - 20 days = 8.63%, 21-25 days = 10.44%, 26-30 days = 12.35%
+   - 31-36 days = 14.99%, 37-39 days = 17.25%, 40 days = 18.89%, 41+ days = 20.02%
+3. Extract salary coefficient information (e.g., "coefficient 11", "coefficient 9")
+4. Extract detailed bonus breakdowns (e.g., "15% expertise bonus + 10% performance allowance")
+5. Calculate increase amounts correctly including bonuses in base calculation
+6. For organization type, identify if it's "Budgetary" or "Businesses, etc."
+
+CRITICAL: Return ONLY valid JSON without any markdown formatting, code blocks, or mathematical expressions in values.
+
+IMPORTANT: All numerical values must be calculated numbers, not expressions like "440 / 3" or "(2650 + 265) * 0.05".
+
+Example of CORRECT format:
+"allowances_bonuses": 146.67 (NOT "440 / 3")
+"increase_amount": 145.75 (NOT "(2650 + 265) * 0.05")
+
+CRITICAL REQUIREMENTS - EXACT FORM MAPPING:
+1. Eil. No. - Sequential numbering (1, 2, 3...)
+2. Project Impact No. (from the PIP) - Project impact identifier
+3. No of action/expenditure type (from the IBP) - Action/expenditure type number
+4. Duties in the ORP - Specific duties/responsibilities 
+5. Position/Function in the institution - Job title/position
+6. Employee's name - Name if specified (can be empty)
+7. Type of employment contract - Contract type affecting unemployment insurance
+8. Year for which remuneration is planned - Year or year range
+9. Number of months/hours planned - Duration in months
+10. Planned post salary/hourly rate, EUR - Base salary rate
+11. Increase, % (if applicable) - Percentage increase as decimal
+12. Amount of increase, EUR - Calculated increase amount
+13. Total planned remuneration excluding employer's contribution, EUR - Formula: Column 10 + Column 12
+14. Total rate including employer's contribution, EUR - Including contribution rate
+15. Length of working week on weekdays - Working days per week (5 or 6)
+16. Number of working days of annual leave - Annual leave days
+17. Fixed rate of annual leave allowance - Rate from reference table
+18. Planned cost of annual leave, EUR - Annual leave cost including contributions
+19. Total planned R&D fee, EUR - Formula: Column 14 + Column 18
+20. Total planned remuneration, EUR - Formula: Column 19 + Column 9
+21. Justification of the salary rate - Detailed justification
+
+CALCULATION FORMULAS:
+- Column 13 = Column 10 + Column 12
+- Column 19 = Column 14 + Column 18
+- Column 20 = Column 19 + Column 9
+
+CRITICAL: Return ONLY valid JSON without markdown formatting or mathematical expressions.
+
+Return valid JSON only:
+
+{
+  "project_info": {
+    "project_code": "exact project code from text",
+    "organization_name": "exact organization name", 
+    "project_duration_months": number,
+    "contribution_rate": number (budgetary = 0.014, businesses = 0.046),
+    "organization_type": "Ministry/Institute/University/Company etc.",
+    "budgetary_classification": "budgetary" or "non-budgetary"
+  },
+  "job_positions": [
+    {
+      "eil_no": "1", 
+      "project_impact_no": "1.2 or similar pattern",
+      "action_expenditure_no": "1.2.1 or similar pattern", 
+      "duties_in_orp": "specific duties described or can be numbers ",
+      "position_function": "job title/position or may be time-limited/indefinite/etc",
+      "employee_name": "name if specified or empty string",
+      "employment_contract_type": "contract type from text",
+      "remuneration_year": "YYYY-MM format like 2024-03",
+      "months_hours_planned": number,
+      "planned_salary_rate": number,
+      "increase_percentage": number as decimal (5% = 0.05),
+      "increase_amount": number,
+      "total_excluding_contribution": number (calculated as planned_salary_rate + increase_amount),
+      "total_including_contribution": number,
+      "working_week_length": 5 or 6,
+      "annual_leave_days": number,
+      "annual_leave_rate": number (from reference table),
+      "annual_leave_cost": number,
+      "total_rd_fee": number (calculated as total_including_contribution + annual_leave_cost),
+      "total_planned_remuneration": number (calculated as total_rd_fee + months_hours_planned),
+      "justification": "complete justification text",
+      "coefficient": "coefficient info if mentioned",
+      "bonus_breakdown": "bonus details if mentioned"
+    }
+  ]
+}
+
+CALCULATION FORMULAS (ESSENTIAL):
+- Total Excluding Contribution (N) = Planned Salary Rate (K) + Increase Amount (M)
+- Total Including Contribution (O) = Total Excluding Contribution (N) × (1 + contribution_rate)
+- Annual Leave Cost (S) = Total Including Contribution (O) × Annual Leave Rate (R)
+- Total Planned R&D Fee (T) = Total Including Contribution (O) + Annual Leave Cost (S)
+- Total Planned Remuneration (U) = Total Planned R&D Fee (T) + Months/Hours Planned (J)
+
+ANNUAL LEAVE RATES:
+20 days = 8.63%, 21-25 days = 10.44%, 26-30 days = 12.35%
+31-36 days = 14.99%, 37-39 days = 17.25%, 40 days = 18.89%, 41+ days = 20.02%
+
+ENHANCED INTELLIGENCE FEATURES:
+- Detect organization type from context clues
+- Infer missing information from similar positions
+- Generate professional justifications with supporting calculations
+- Handle multiple employees with different rates
+- Account for salary increases and their effective dates
+
+EXTRACTION RULES:
+- If text mentions "5-day work schedule", set working_week_length = 5
+- If text mentions "coefficient X", extract the coefficient number
+- For increases, calculate as (salary + bonuses) * percentage
+- Use exact annual leave rates from the table based on leave days
+- Extract every single position mentioned, even if similar
+- For budgetary organizations, contribution_rate = 0.014
+- For non-budgetary organizations, contribution_rate = 0.046
+- Be extremely precise with all numerical values
+- DO NOT wrap response in markdown code blocks or ``` - return pure JSON only
+
+Extract EVERY detail mentioned in the text. Do not assume or approximate values.

@@ -1,0 +1,2714 @@
+# Extended Project Data - 10 Employee Positions
+
+## **Project Basic Information:**
+**Project Code:** EU-2024-INNOVATION-7823  
+**Applicant Name:** Ministry of Education Science and Technology Development Institute  
+**Project Duration:** 36 months  
+**Organization Type:** Budgetary
+
+## **Employee Position Details:**
+Job Title: Senior Research Analyst, Planned Posts: 2, Employment Contract: Time-limited, Recruitment Date: 2024-03, Salary Planning Year: 2024, Work Duration: 30 months, Monthly Salary: 2650 EUR, Allowances: 265 EUR monthly performance bonus, Salary Increase: 5% annual increment (132.50 EUR), Working Week: 5 days, Annual Leave Days: 25, Leave Rate: 10.44%, Salary Justification: Position requires PhD qualification, coefficient 11 applied plus 15% expertise bonus for specialized AI research, plus 10% performance allowance as per institutional policy for senior research positions.
+Job Title: Data Science Specialist, Planned Posts: 1, Employment Contract: Time-limited, Recruitment Date: 2024-06, Salary Planning Year: 2024-2025, Work Duration: 24 months, Monthly Salary: 2200 EUR, Allowances: 440 EUR quarterly project completion bonus, Salary Increase: 3% annual adjustment (66 EUR), Working Week: 5 days, Annual Leave Days: 22, Leave Rate: 10.44%, Salary Justification: Specialist position with Master's degree requirement, coefficient 9 applied with 25% technical skills premium due to position being on national shortage list for data science professionals, reference shortage list code DS-2024-AI.
+Job Title: Project Coordinator, Planned Posts: 1, Employment Contract: Indefinite, Recruitment Date: 2024-01, Salary Planning Year: 2024, Work Duration: 36 months, Monthly Salary: 1850 EUR, Allowances: 185 EUR monthly coordination allowance, Salary Increase: 4% merit increase (74 EUR), Working Week: 5 days, Annual Leave Days: 28, Leave Rate: 12.35%, Salary Justification: Administrative position requiring project management certification, coefficient 8 base rate plus 20% management responsibility supplement plus 10% multi-project coordination bonus as approved by institutional salary committee.
+Job Title: Research Assistant, Planned Posts: 3, Employment Contract: Time-limited, Recruitment Date: 2024-09, Salary Planning Year: 2025, Work Duration: 18 months, Monthly Salary: 1400 EUR, Allowances: 0 EUR, Salary Increase: 0%, Working Week: 5 days, Annual Leave Days: 20, Leave Rate: 8.63%, Salary Justification: Entry-level research position requiring Bachelor's degree, coefficient 6 applied with standard entry-level rate, no additional supplements as per budgetary institution pay scale for junior researchers.
+Job Title: Technical Support Specialist, Planned Posts: 1, Employment Contract: Time-limited, Recruitment Date: 2024-12, Salary Planning Year: 2025, Work Duration: 15 months, Monthly Salary: 1650 EUR, Allowances: 165 EUR monthly technical allowance, Salary Increase: 2% technical adjustment (33 EUR), Working Week: 5 days, Annual Leave Days: 24, Leave Rate: 10.44%, Salary Justification: Technical support role requiring specialized IT certifications, coefficient 7 plus 15% technical skills allowance plus 5% shift work premium for extended support hours coverage.
+Job Title: Senior Software Developer, Planned Posts: 3, Employment Contract: Time-limited, Recruitment Date: 2024-04, Salary Planning Year: 2024-2025, Work Duration: 32 months, Monthly Salary: 2800 EUR, Allowances: 420 EUR monthly development bonus, Salary Increase: 6% annual increment (168 EUR), Working Week: 5 days, Annual Leave Days: 26, Leave Rate: 12.35%, Salary Justification: Senior development position requiring 5+ years experience, coefficient 12 applied plus 20% technical leadership bonus plus 15% innovation premium for AI/ML development expertise, position classified as critical skill shortage.
+Job Title: Quality Assurance Manager, Planned Posts: 1, Employment Contract: Time-limited, Recruitment Date: 2024-05, Salary Planning Year: 2024, Work Duration: 28 months, Monthly Salary: 2300 EUR, Allowances: 230 EUR monthly quality assurance allowance, Salary Increase: 4.5% performance increase (103.50 EUR), Working Week: 5 days, Annual Leave Days: 27, Leave Rate: 12.35%, Salary Justification: Management position requiring quality management certification, coefficient 10 plus 18% quality control premium plus 12% management supplement for overseeing project compliance and standards.
+Job Title: Database Administrator, Planned Posts: 1, Employment Contract: Time-limited, Recruitment Date: 2024-08, Salary Planning Year: 2024-2025, Work Duration: 20 months, Monthly Salary: 2100 EUR, Allowances: 315 EUR monthly database management allowance, Salary Increase: 3.5% technical adjustment (73.50 EUR), Working Week: 5 days, Annual Leave Days: 23, Leave Rate: 10.44%, Salary Justification: Specialized database position requiring Oracle/PostgreSQL certifications, coefficient 9 plus 20% database expertise premium plus 10% system critical responsibility allowance for maintaining research data infrastructure.
+Job Title: Financial Controller, Planned Posts: 1, Employment Contract: Time-limited, Recruitment Date: 2024-02, Salary Planning Year: 2024, Work Duration: 36 months, Monthly Salary: 2400 EUR, Allowances: 240 EUR monthly financial oversight allowance, Salary Increase: 3% annual adjustment (72 EUR), Working Week: 5 days, Annual Leave Days: 30, Leave Rate: 12.35%, Salary Justification: Part-time financial oversight position requiring CPA qualification, coefficient 10 applied plus 15% financial management premium plus 10% compliance responsibility bonus for EU project financial reporting requirements.
+Job Title: Communications Specialist, Planned Posts: 1, Employment Contract: Time-limited, Recruitment Date: 2024-07, Salary Planning Year: 2024-2025, Work Duration: 22 months, Monthly Salary: 1900 EUR, Allowances: 190 EUR monthly communications allowance, Salary Increase: 2.5% merit increase (47.50 EUR), Working Week: 5 days, Annual Leave Days: 25, Leave Rate: 10.44%, Salary Justification: Communications position requiring Master's degree in Communications or related field, coefficient 8 plus 17% public relations premium plus 8% multilingual bonus for managing EU project communications and stakeholder engagement activities.
+Project Basic Information:
+Project Code: INNOV-TECH-2024-456
+ Applicant Name: TechInnovate Solutions Ltd
+ Project Duration: 24 months
+ Organization Type: Businesses, etc.
+Employee Position Details:
+Position 1: Serial Number: 1, Project Impact Number: 1.2, Action/Expenditure Type: 1.2.1, Job Duties: Lead AI Research and Development activities, Institutional Position: Chief Technology Officer, Employee Name: Dr. Elena Vasquez, Employment Contract: Indefinite, Remuneration Year: 2024, Work Duration: 200 hours, Hourly Rate: 45.50 EUR, Salary Increase: 8% annual market adjustment (3.64 EUR/hour), Working Week: 5 days, Annual Leave Days: 25, Leave Rate: 10.44%, Rate Justification: Hourly rate calculated from institutional CTO salary data - 2023 Q4 payroll analysis shows average monthly salary 7800 EUR over 12 months equals 93600 EUR annually, divided by 2080 working hours equals 45 EUR base rate, increased by 1.1% market adjustment based on Lithuania IT sector salary survey 2024.
+Position 2: Serial Number: 2, Project Impact Number: 1.3, Action/Expenditure Type: 1.3.1, Job Duties: Machine Learning Algorithm Development, Institutional Position: Senior Software Engineer, Employee Name: Mindaugas Petrauskas, Employment Contract: Time-limited, Remuneration Year: 2024, Work Duration: 350 hours, Hourly Rate: 32.75 EUR, Salary Increase: 5% expertise premium (1.64 EUR/hour), Working Week: 5 days, Annual Leave Days: 22, Leave Rate: 10.44%, Rate Justification: Rate based on company's senior engineer pay scale - 2024 January-March payslips show average monthly gross 5700 EUR, calculated hourly rate: 5700 EUR × 3 months = 17100 EUR divided by 520 hours = 32.88 EUR/hour, adjusted to 32.75 EUR with ML specialization premium.
+Position 3: Serial Number: 3, Project Impact Number: 1.4, Action/Expenditure Type: 1.4.2, Job Duties: Data Analysis and Visualization, Institutional Position: Data Analyst, Employee Name: Laura Kazlauskaite, Employment Contract: Indefinite, Remuneration Year: 2024-2025, Work Duration: 280 hours, Hourly Rate: 28.00 EUR, Salary Increase: 3% annual adjustment (0.84 EUR/hour), Working Week: 5 days, Annual Leave Days: 20, Leave Rate: 8.63%, Rate Justification: Rate aligned with Lithuanian State Data Agency statistics for data analysts in technology sector - Q1 2024 average gross hourly wage 27.45 EUR, company premium of 2% applied for specialized visualization skills, totaling 28.00 EUR/hour base rate.
+Position 4: Serial Number: 4, Project Impact Number: 2.1, Action/Expenditure Type: 2.1.3, Job Duties: Project Management and Coordination, Institutional Position: Project Manager, Employee Name: Tomas Jankauskas, Employment Contract: Time-limited, Remuneration Year: 2024, Work Duration: 400 hours, Hourly Rate: 35.20 EUR, Salary Increase: 4% project complexity bonus (1.41 EUR/hour), Working Week: 5 days, Annual Leave Days: 26, Leave Rate: 12.35%, Rate Justification: Rate based on institutional project manager salary band - employment contract history shows 2023 annual salary 72000 EUR for similar PM role, hourly equivalent 34.62 EUR, adjusted to 35.20 EUR for EU project management premium as per company EU projects policy.
+Position 5: Serial Number: 5, Project Impact Number: 2.2, Action/Expenditure Type: 2.2.1, Job Duties: Software Quality Assurance Testing, Institutional Position: QA Engineer, Employee Name: Ruta Stonkiene, Employment Contract: Indefinite, Remuneration Year: 2025, Work Duration: 180 hours, Hourly Rate: 25.80 EUR, Salary Increase: 6% skills certification bonus (1.55 EUR/hour), Working Week: 5 days, Annual Leave Days: 21, Leave Rate: 10.44%, Rate Justification: Rate established using company's QA engineer payroll data - 2024 Q2-Q4 average monthly salary 4480 EUR over 9 months totaling 40320 EUR, divided by 1560 hours equals 25.85 EUR/hour base, rounded to 25.80 EUR with additional certification premium for ISTQB Advanced Level qualification.
+Position 6: Serial Number: 6, Project Impact Number: 3.1, Action/Expenditure Type: 3.1.1, Job Duties: Technical Documentation and User Support, Institutional Position: Technical Writer, Employee Name: Kristina Petriene, Employment Contract: Time-limited, Remuneration Year: 2024, Work Duration: 120 hours, Hourly Rate: 22.50 EUR, Salary Increase: 0%, Working Week: 5 days, Annual Leave Days: 25, Leave Rate: 10.44%, Rate Justification: Rate based on Lithuanian Writers Union freelance technical writing rates survey 2024 - average hourly rate for technical documentation 21.80 EUR, company standard markup of 3.2% applied for specialized software documentation, resulting in 22.50 EUR/hour rate.
+Position 7: Serial Number: 7, Project Impact Number: 3.2, Action/Expenditure Type: 3.2.2, Job Duties: Financial Analysis and Reporting, Institutional Position: Financial Analyst, Employee Name: Vytautas Rimkus, Employment Contract: Indefinite, Remuneration Year: 2024-2025, Work Duration: 160 hours, Hourly Rate: 30.25 EUR, Salary Increase: 2.5% inflation adjustment (0.76 EUR/hour), Working Week: 5 days, Annual Leave Days: 23, Leave Rate: 10.44%, Rate Justification: Rate calculated from institutional financial analyst position - 2023 full year compensation 62400 EUR including bonuses, divided by 2040 working hours equals 30.59 EUR/hour, adjusted to 30.25 EUR based on project-specific financial analysis scope and complexity level.
+
+Patent Service Data for Innovation Project XYZ-2024
+
+PHASE I - PATENT APPLICATION FILING
+
+Attorney Services Required:
+1. Patent application drafting and preparation - LegalTech Partners LLP, Contract #LTP-2024-045 dated March 15, 2024. Comprehensive prior art search, technical analysis, and professional patent application preparation. Cost: €3,200.00 excluding VAT.
+
+2. Technical drawings and specifications review - IP Solutions Baltic, Commercial Offer #IPB-789 from April 2, 2024. Professional technical drawing review, specification verification, and compliance check. Price: €850.00 without VAT.
+
+3. Patent prosecution and filing coordination - LegalTech Partners LLP, Amendment to Contract #LTP-2024-045A dated April 10, 2024. Complete filing coordination with patent office, document submission, and initial prosecution activities. Amount: €1,450.00 excluding VAT.
+
+Official Fees and Taxes - Phase I:
+1. Patent application filing fee - Official Patent Office Fee Schedule 2024, Reference #POF-2024-STD. Standard filing fee for technical patent application. Cost: €320.00 excluding VAT.
+
+2. Search fee payment - European Patent Office fee structure, Ref #EPO-SEARCH-2024. Mandatory search fee for patent application processing. Amount: €1,285.00 without VAT.
+
+3. Publication fee - Patent Office Publication Schedule, Document #POP-2024-REG. Official publication fee for patent application. Price: €125.00 excluding VAT.
+
+PHASE II - PATENT GRANT PROCEDURE
+
+Attorney Services for Grant Phase:
+1. Grant procedure handling and response - LegalTech Partners LLP, Continuation Agreement #LTP-2024-GRANT dated September 2024. Professional handling of examination report, response preparation, and grant procedure coordination. Cost: €2,100.00 excluding VAT.
+
+2. Claims amendments and technical corrections - IP Solutions Baltic, Service Agreement #IPB-GRANT-456 from October 2024. Professional claims analysis, amendment drafting, and technical corrections for grant phase. Price: €750.00 without VAT.
+
+3. Final documentation preparation - LegalTech Partners LLP, Final Phase Service #LTP-2024-FINAL dated November 2024. Preparation of final patent documentation, grant certificate processing, and closing coordination. Amount: €950.00 excluding VAT.
+
+Official Fees and Taxes - Phase II:
+1. Examination fee payment - Patent Office Examination Schedule 2024, Code #POE-2024-TECH. Official examination fee for technical patent review. Cost: €705.00 excluding VAT.
+
+2. Grant fee and publication - European Patent Office Grant Fee Schedule, Ref #EPO-GRANT-2024. Official grant fee and publication costs. Amount: €925.00 without VAT.
+
+3. Patent maintenance preparation fee - Patent Office Maintenance Guidelines, Doc #POM-2024-PREP. First year maintenance fee preparation and setup. Price: €265.00 excluding VAT.
+
+4. Administrative processing fee - Patent Office Administrative Fee Schedule, Code #POA-2024-STD. Standard administrative processing fee for patent grant finalization. Cost: €180.00 excluding VAT.
+
+Total project covers complete patent application and grant procedure with professional legal support throughout both phases. All costs are provided excluding VAT as per project requirements.
+Market Development Services for Innovation Product XYZ-2024
+Product Market Readiness Documentation and Implementation
+
+PROJECT OVERVIEW:
+Our innovative product requires comprehensive market development activities to ensure successful market entry and sustainable growth. The following services have been identified through market analysis and strategic planning sessions.
+
+===============================================
+TABLE 1: MARKET RESEARCH & ANALYSIS SERVICES
+===============================================
+
+Market Research Service 1:
+Comprehensive Market Analysis and Competitor Research
+Supplier: MarketPro Analytics Ltd, Commercial Offer #MPA-2024-156 dated March 20, 2024
+Description: Complete market size analysis, competitor landscape mapping, and market segmentation study for innovative technology products in the European market.
+Price: €4,500.00 excluding VAT
+
+Market Research Service 2:
+Consumer Behavior Study and Customer Journey Analysis
+Supplier: Research Solutions Baltic, Contract #RSB-2024-089 from April 5, 2024
+Description: In-depth consumer behavior research, customer journey mapping, and purchasing decision analysis for target demographic groups.
+Price: €3,200.00 excluding VAT
+
+Market Research Service 3:
+Market Size and Growth Potential Assessment
+Supplier: DataInsight Partners, Proposal #DIP-789 dated April 15, 2024
+Description: Quantitative market size estimation, growth projections, and market opportunity analysis for 5-year period.
+Price: €2,800.00 excluding VAT
+
+===============================================
+TABLE 2: MARKETING STRATEGY DEVELOPMENT SERVICES
+===============================================
+
+Marketing Strategy Service 1:
+Comprehensive Marketing Strategy Development
+Supplier: Strategic Marketing Group, Commercial Offer #SMG-2024-234 dated May 10, 2024
+Description: Development of complete marketing strategy including positioning, messaging, channel selection, and implementation roadmap.
+Price: €5,200.00 excluding VAT
+
+Marketing Strategy Service 2:
+Digital Marketing Plan and Campaign Strategy
+Supplier: DigitalFirst Agency, Contract #DFA-2024-567 from May 20, 2024
+Description: Digital marketing strategy development, online campaign planning, SEO/SEM strategy, and social media marketing plan.
+Price: €4,100.00 excluding VAT
+
+Marketing Strategy Service 3:
+Go-to-Market Strategy and Launch Planning
+Supplier: Market Entry Consultants, Proposal #MEC-445 dated June 1, 2024
+Description: Comprehensive go-to-market strategy, launch timeline development, and market entry tactics for European markets.
+Price: €3,900.00 excluding VAT
+
+===============================================
+TABLE 3: BRAND DEVELOPMENT & POSITIONING SERVICES
+===============================================
+
+Brand Development Service 1:
+Brand Strategy and Positioning Development
+Supplier: BrandCraft Studios, Commercial Offer #BCS-2024-789 dated June 15, 2024
+Description: Complete brand strategy development, unique value proposition creation, and competitive positioning analysis.
+Price: €6,800.00 excluding VAT
+
+Brand Development Service 2:
+Visual Identity and Brand Design Creation
+Supplier: Creative Design House, Contract #CDH-2024-234 from July 2, 2024
+Description: Logo design, visual identity system, brand guidelines, and marketing materials design for consistent brand presentation.
+Price: €4,200.00 excluding VAT
+
+Brand Development Service 3:
+Brand Messaging and Communication Strategy
+Supplier: Communications Pro, Proposal #CP-567 dated July 20, 2024
+Description: Brand messaging framework, tone of voice development, and integrated communication strategy across all channels.
+Price: €3,500.00 excluding VAT
+
+===============================================
+TABLE 4: MARKET TESTING & VALIDATION SERVICES
+===============================================
+
+Market Testing Service 1:
+Product Market Testing and Validation Study
+Supplier: TestLab Solutions, Commercial Offer #TLS-2024-456 dated August 5, 2024
+Description: Comprehensive product testing with target customers, market validation research, and product-market fit assessment.
+Price: €5,500.00 excluding VAT
+
+Market Testing Service 2:
+Customer Feedback Collection and Analysis
+Supplier: Feedback Dynamics, Contract #FD-2024-123 from August 20, 2024
+Description: Customer feedback collection system setup, survey design, data collection, and comprehensive analysis reporting.
+Price: €3,800.00 excluding VAT
+
+Market Testing Service 3:
+Product-Market Fit Assessment and Optimization
+Supplier: Market Validation Corp, Proposal #MVC-789 dated September 1, 2024
+Description: Product-market fit evaluation, optimization recommendations, and market readiness assessment with actionable insights.
+Price: €4,200.00 excluding VAT
+
+===============================================
+TABLE 5: MARKET ENTRY & LAUNCH SUPPORT SERVICES
+===============================================
+
+Market Entry Service 1:
+Market Entry Strategy and Implementation Support
+Supplier: Launch Specialists Inc, Commercial Offer #LSI-2024-345 dated September 15, 2024
+Description: Market entry strategy execution, distribution channel setup, and launch implementation support for European markets.
+Price: €7,200.00 excluding VAT
+
+Market Entry Service 2:
+Launch Campaign Management and Execution
+Supplier: Campaign Masters, Contract #CM-2024-678 from October 1, 2024
+Description: Complete launch campaign management, PR coordination, media relations, and launch event organization and execution.
+Price: €5,800.00 excluding VAT
+
+Market Entry Service 3:
+Market Penetration Strategy and Growth Support
+Supplier: Growth Accelerators, Proposal #GA-234 dated October 15, 2024
+Description: Market penetration strategy development, customer acquisition planning, and ongoing growth optimization support.
+Price: €4,900.00 excluding VAT
+
+ADDITIONAL INFORMATION:
+All services include comprehensive documentation, regular progress reports, and final deliverables that demonstrate product market readiness. Each service provider has been selected based on their expertise in technology product marketing and proven track record in European markets.
+
+The pricing structure follows the fixed amount criterion where the lowest price from the three commercial proposals will be used for each expenditure type as per EU funding requirements. All prices are quoted excluding VAT and include all necessary deliverables and documentation required for project completion.
+
+Services are scheduled to be executed sequentially with some overlap to ensure efficient project timeline and optimal resource utilization. Each service includes project management, quality assurance, and final reporting to ensure compliance with all funding requirements and project objectives.
+Our company TechInnovate Solutions Ltd is launching an ambitious EU-funded project called "INNOV-TECH-2024-456" which will run for 24 months starting from January 2024 and we expect to generate substantial revenue from multiple products and services developed during this project period. The project focuses on AI-powered business intelligence solutions and we anticipate launching our first product which is an Advanced Analytics Dashboard during the project implementation phase where we plan to sell approximately 150 units at a unit price of 2,500 EUR each, generating total sales revenue of 375,000 EUR during the project period, then in the first year after project completion (N+1) we expect to increase sales to 220 units at 2,650 EUR per unit totaling 583,000 EUR, followed by N+2 year with 280 units at 2,750 EUR each for 770,000 EUR, and finally in N+3 we project 350 units at 2,850 EUR per unit reaching 997,500 EUR in revenue.
+Our second major product will be the AI-Powered Predictive Analytics Suite which we'll start selling towards the end of the project period with initial sales of 45 units priced at 8,500 EUR each generating 382,500 EUR during the project phase, then expanding to 75 units in N+1 at 8,900 EUR per unit for 667,500 EUR revenue, increasing to 95 units in N+2 at 9,200 EUR each totaling 874,000 EUR, and reaching 125 units in N+3 priced at 9,500 EUR per unit for total revenue of 1,187,500 EUR.
+We're also developing a Cloud-Based Data Integration Platform as our third product offering where we expect to sell 80 licenses during the project at 3,200 EUR per license generating 256,000 EUR, then growing to 140 licenses in N+1 at 3,350 EUR each for 469,000 EUR, expanding further to 190 licenses in N+2 at 3,500 EUR per license totaling 665,000 EUR, and finally reaching 240 licenses in N+3 priced at 3,650 EUR each for 876,000 EUR in revenue.
+The fourth revenue stream comes from our Machine Learning Optimization Tool which will have limited availability during the project with only 25 units sold at 12,000 EUR each generating 300,000 EUR, but we expect significant growth in N+1 with 60 units at 12,500 EUR per unit totaling 750,000 EUR, followed by 85 units in N+2 at 13,000 EUR each for 1,105,000 EUR revenue, and reaching 110 units in N+3 priced at 13,500 EUR per unit for 1,485,000 EUR.
+Our fifth product will be the Business Intelligence Reporting Suite with projected sales of 200 units during the project period at 1,800 EUR per unit generating 360,000 EUR revenue, then increasing to 320 units in N+1 at 1,900 EUR each for 608,000 EUR, growing to 420 units in N+2 at 2,000 EUR per unit totaling 840,000 EUR, and reaching 550 units in N+3 priced at 2,100 EUR each for 1,155,000 EUR in total revenue.
+We're also planning to launch a Customer Analytics Platform as our sixth offering with initial sales of 35 units during the project at 6,800 EUR each generating 238,000 EUR, expanding to 65 units in N+1 at 7,100 EUR per unit for 461,500 EUR revenue, increasing to 90 units in N+2 at 7,400 EUR each totaling 666,000 EUR, and finally reaching 120 units in N+3 priced at 7,700 EUR per unit for 924,000 EUR.
+The seventh product in our portfolio will be the Automated Workflow Management System where we expect to sell 120 units during the project phase at 4,200 EUR per unit generating 504,000 EUR, then growing to 180 units in N+1 at 4,400 EUR each for 792,000 EUR revenue, expanding to 230 units in N+2 at 4,600 EUR per unit totaling 1,058,000 EUR, and reaching 300 units in N+3 priced at 4,800 EUR each for 1,440,000 EUR.
+Our eighth revenue generator will be the Real-Time Data Monitoring Dashboard with projected sales of 90 units during the project at 5,500 EUR per unit generating 495,000 EUR, increasing to 150 units in N+1 at 5,750 EUR each for 862,500 EUR revenue, growing to 200 units in N+2 at 6,000 EUR per unit totaling 1,200,000 EUR, and reaching 260 units in N+3 priced at 6,250 EUR each for 1,625,000 EUR.
+The ninth product offering will be our Industry-Specific Analytics Module with limited initial sales of 15 units during the project period at 15,500 EUR each generating 232,500 EUR, then expanding to 35 units in N+1 at 16,200 EUR per unit for 567,000 EUR revenue, increasing to 55 units in N+2 at 16,900 EUR each totaling 929,500 EUR, and reaching 75 units in N+3 priced at 17,600 EUR per unit for 1,320,000 EUR.
+Our tenth and flagship product will be the Enterprise AI Solution Suite which represents our premium offering with sales of 12 units during the project at 25,000 EUR per unit generating 300,000 EUR, growing significantly to 28 units in N+1 at 26,500 EUR each for 742,000 EUR revenue, expanding to 45 units in N+2 at 28,000 EUR per unit totaling 1,260,000 EUR, and reaching 65 units in N+3 priced at 29,500 EUR each for 1,917,500 EUR in total revenue.
+Additionally, we're developing our eleventh product which is the Mobile Analytics Application targeting smaller businesses with sales of 300 units during the project at 850 EUR per unit generating 255,000 EUR, then dramatically increasing to 600 units in N+1 at 900 EUR each for 540,000 EUR revenue, growing to 850 units in N+2 at 950 EUR per unit totaling 807,500 EUR, and reaching 1,200 units in N+3 priced at 1,000 EUR each for 1,200,000 EUR.
+The twelfth product will be our Compliance Monitoring Tool designed for regulated industries with projected sales of 55 units during the project period at 7,800 EUR per unit generating 429,000 EUR, increasing to 95 units in N+1 at 8,200 EUR each for 779,000 EUR revenue, expanding to 135 units in N+2 at 8,600 EUR per unit totaling 1,161,000 EUR, and reaching 180 units in N+3 priced at 9,000 EUR each for 1,620,000 EUR.
+Our thirteenth offering will be the Supply Chain Analytics Platform with initial sales of 40 units during the project at 9,200 EUR each generating 368,000 EUR, growing to 70 units in N+1 at 9,650 EUR per unit for 675,500 EUR revenue, increasing to 100 units in N+2 at 10,100 EUR each totaling 1,010,000 EUR, and reaching 140 units in N+3 priced at 10,550 EUR per unit for 1,477,000 EUR.
+The fourteenth product in our lineup will be the Financial Analytics Dashboard targeting the banking sector with projected sales of 30 units during the project period at 18,500 EUR per unit generating 555,000 EUR, then expanding to 50 units in N+1 at 19,400 EUR each for 970,000 EUR revenue, growing to 70 units in N+2 at 20,300 EUR per unit totaling 1,421,000 EUR, and reaching 95 units in N+3 priced at 21,200 EUR each for 2,014,000 EUR.
+Finally, our fifteenth and last product will be the Healthcare Analytics Solution designed specifically for medical institutions with limited but high-value sales of 8 units during the project at 35,000 EUR per unit generating 280,000 EUR, increasing to 18 units in N+1 at 37,000 EUR each for 666,000 EUR revenue, expanding to 28 units in N+2 at 39,000 EUR per unit totaling 1,092,000 EUR, and reaching 40 units in N+3 priced at 41,000 EUR each for 1,640,000 EUR in total revenue.
+When we calculate the total projected revenue across all fifteen products, during the project implementation period we expect to generate 5,737,500 EUR, followed by 9,332,500 EUR in the N+1 year, then 13,899,000 EUR in N+2, and finally 18,977,500 EUR in the N+3 year, which represents a total cumulative revenue of 47,946,500 EUR over the four-year forecast period, demonstrating the significant commercial potential and scalability of our EU-funded innovation project.
+
+R&D EXPENDITURE DATA FOR EU INNOVATION PROJECT 2024-2027
+Complete Research and Development Budget Breakdown
+
+PROJECT OVERVIEW:
+This document contains comprehensive R&D expenditure projections for our innovative technology research project. The budget covers all research activities, personnel costs, equipment, and operational expenses required for successful project completion. All amounts are in EUR excluding VAT.
+
+===============================================
+TABLE 1: R&D ACTIVITIES BY IMPACT
+===============================================
+
+IMPACT 1: AI Algorithm Development and Optimization
+Description: Development of advanced artificial intelligence algorithms for machine learning applications
+Direct Costs: €85,000.00
+Indirect Costs: €5,950.00 (7% of direct costs)
+Total Costs: €90,950.00
+EU Funding Requested: €77,307.50 (85% of total costs)
+
+IMPACT 2: Machine Learning Model Training and Validation
+Description: Comprehensive training and validation of ML models using large datasets
+Direct Costs: €65,000.00
+Indirect Costs: €4,550.00 (7% of direct costs)
+Total Costs: €69,550.00
+EU Funding Requested: €59,117.50 (85% of total costs)
+
+IMPACT 3: IoT Sensor Network Integration Research
+Description: Research and development of IoT sensor integration protocols and systems
+Direct Costs: €48,000.00
+Indirect Costs: €3,360.00 (7% of direct costs)
+Total Costs: €51,360.00
+EU Funding Requested: €43,656.00 (85% of total costs)
+
+IMPACT 4: Cybersecurity Framework Development
+Description: Development of advanced cybersecurity frameworks for IoT environments
+Direct Costs: €42,000.00
+Indirect Costs: €2,940.00 (7% of direct costs)
+Total Costs: €44,940.00
+EU Funding Requested: €38,199.00 (85% of total costs)
+
+IMPACT 5: Cloud Computing Architecture Research
+Description: Research into scalable cloud computing architectures for data processing
+Direct Costs: €38,000.00
+Indirect Costs: €2,660.00 (7% of direct costs)
+Total Costs: €40,660.00
+EU Funding Requested: €34,561.00 (85% of total costs)
+
+===============================================
+TABLE 2: R&D EXPENDITURE CATEGORIES
+===============================================
+
+CATEGORY 1: Salaries and wages of project staff and employer's liability costs
+Description: Compensation for research team including senior researchers, PhD students, and technical staff
+Direct Costs: €180,000.00
+EU Funding Requested: €153,000.00 (85% funding rate)
+
+Staff Breakdown:
+- Senior Research Scientists (2 FTE): €120,000.00
+- PhD Research Students (3 FTE): €45,000.00
+- Technical Support Staff (1 FTE): €15,000.00
+
+CATEGORY 2: Mission expenses for project staff
+Description: Travel costs for conferences, partner meetings, and field research activities
+Direct Costs: €15,000.00
+EU Funding Requested: €12,750.00 (85% funding rate)
+
+Travel Activities:
+- International conference participation: €8,000.00
+- Partner collaboration visits: €4,500.00
+- Field research travel: €2,500.00
+
+CATEGORY 3: Depreciation costs for tools and equipment
+Description: Depreciation of specialized research equipment and software tools
+Direct Costs: €25,000.00
+EU Funding Requested: €21,250.00 (85% funding rate)
+
+Equipment:
+- High-performance computing servers: €15,000.00
+- Specialized research software licenses: €6,000.00
+- Laboratory testing equipment: €4,000.00
+
+CATEGORY 4: Expenditure for the acquisition of R&D services
+Description: External R&D services and specialized consulting
+Direct Costs: €32,000.00
+EU Funding Requested: €27,200.00 (85% funding rate)
+
+Services:
+- Data analytics consulting: €18,000.00
+- Algorithm optimization services: €10,000.00
+- Technical validation services: €4,000.00
+
+CATEGORY 5: Costs of contractual research, know-how and patents purchased or licensed from external sources
+Description: Licensing fees for patents and acquisition of specialized know-how
+Direct Costs: €28,000.00
+EU Funding Requested: €23,800.00 (85% funding rate)
+
+Intellectual Property:
+- Patent licensing fees: €20,000.00
+- Technical know-how acquisition: €5,000.00
+- Research database access: €3,000.00
+
+CATEGORY 6: Materials, non-expendable inventories, stocks, etc., classified as current assets
+Description: Research materials, consumables, and laboratory supplies
+Direct Costs: €18,000.00
+EU Funding Requested: €15,300.00 (85% funding rate)
+
+Materials:
+- Electronic components for prototyping: €12,000.00
+- Laboratory consumables: €4,000.00
+- Testing materials: €2,000.00
+
+CATEGORY 7: Rental costs of equipment (other than equipment purchased with EU funds)
+Description: Equipment rental for specialized testing and development
+Direct Costs: €12,000.00
+EU Funding Requested: €10,200.00 (85% funding rate)
+
+Rental Equipment:
+- Specialized testing equipment rental: €8,000.00
+- Development platform access: €4,000.00
+
+CATEGORY 8: Rental expenses for buildings or premises allocated to activities
+Description: Laboratory and office space rental costs allocated to R&D activities
+Direct Costs: €15,000.00
+EU Funding Requested: €12,750.00 (85% funding rate)
+
+Premises:
+- Research laboratory space: €10,000.00
+- Dedicated office space for R&D team: €5,000.00
+
+===============================================
+INDIRECT COST CALCULATIONS
+===============================================
+
+Indirect Cost Rate: 7% (as per EU regulations)
+Total Direct Costs: €325,000.00
+Calculated Indirect Costs: €22,750.00 (7% of €325,000)
+Total Project Budget: €347,750.00 (Direct + Indirect)
+EU Funding for Indirect Costs: €19,337.50 (85% of indirect costs)
+
+===============================================
+SPECIAL CALCULATIONS
+===============================================
+
+Lines 4 & 5 Analysis (R&D Services + Contractual Research):
+Combined Amount: €60,000.00 (€32,000 + €28,000)
+Percentage of Total Direct Costs: 18.5% (€60,000 / €325,000)
+Note: Within acceptable limits for external R&D services
+
+Heading 8 Analysis (Building/Premises Rental):
+Amount: €15,000.00
+Percentage of Total Direct Costs: 4.6% (€15,000 / €325,000)
+Note: Reasonable allocation for dedicated R&D facilities
+
+===============================================
+TABLE 3: PARTNER BREAKDOWN
+===============================================
+
+APPLICANT (Lead Organization):
+Organization: Technical University Research Institute
+Eligible Costs: €208,562.50 (60% of total project)
+EU Funding Requested: €177,278.13
+Percentage of Total Project: 60.0%
+
+Role: Lead research organization responsible for algorithm development, project coordination, and technical management.
+
+PARTNER NO 1: Industry Collaboration Partner
+Organization: TechSolutions Innovation Ltd
+Eligible Costs: €104,281.25 (30% of total project)
+EU Funding Requested: €88,639.06
+Percentage of Total Project: 30.0%
+
+Role: Industry partner providing commercial validation, market research, and technology transfer support.
+
+PARTNER NO 2: Research Validation Partner
+Organization: European AI Research Consortium
+Eligible Costs: €34,906.25 (10% of total project)
+EU Funding Requested: €29,670.31
+Percentage of Total Project: 10.0%
+
+Role: Independent validation partner for research results and quality assurance.
+
+PARTNER NO 3: Not Participating
+Eligible Costs: €0.00
+EU Funding Requested: €0.00
+Percentage of Total Project: 0.0%
+
+===============================================
+BUDGET COMPLIANCE VERIFICATION
+===============================================
+
+Total Project Budget: €347,750.00
+EU Funding Requested: €295,587.50
+Funding Rate: 85.0%
+Minimum Funding Threshold: €40,000.00 ✅ MET (€347,750 > €40,000)
+
+Indirect Cost Rate: 7% ✅ COMPLIANT (Standard EU rate)
+Partner Distribution: 100.0% ✅ VALID (60% + 30% + 10% + 0% = 100%)
+
+External Services (Lines 4&5): 18.5% ✅ WITHIN LIMITS (<25% threshold)
+Premises Allocation (Heading 8): 4.6% ✅ REASONABLE
+
+===============================================
+PROJECT DELIVERABLES AND MILESTONES
+===============================================
+
+The R&D expenditure supports the following key deliverables:
+1. Advanced AI algorithm prototypes and documentation
+2. Validated machine learning models with performance metrics
+3. IoT integration protocols and security frameworks
+4. Technical publications and patent applications
+5. Technology transfer documentation and commercialization roadmap
+
+All expenditures are directly related to R&D activities and comply with EU funding regulations for innovation projects. The budget allocation ensures optimal resource utilization while maintaining compliance with all financial and administrative requirements.
+STAFF WAGES AND SALARY INFORMATION FOR EU PROJECT 2024-2027
+Complete Personnel Cost Documentation and Justification
+
+PROJECT OVERVIEW:
+This document contains comprehensive staff wage information for our EU innovation project involving multiple organizations. All salary data is supported by official documentation including accountant certificates, State Data Agency data, and Bank of Lithuania wage surveys. All rates are in EUR per hour.
+
+===============================================
+APPLICANT ORGANIZATION STAFF
+===============================================
+
+STAFF MEMBER 1:
+Name: Dr. Maria Petrauskas
+Responsibilities: Project Manager and Senior AI Researcher
+Total Hours in Project: 800 hours
+Hourly Rate: €45.50 per hour
+Cost Justification: Accountant's certificate for January-June 2024 shows average monthly salary €7,800. Hourly rate calculated: €7,800×12÷2080hrs=€45.00, adjusted +1.1% for project management complexity and AI specialization.
+
+STAFF MEMBER 2:
+Name: Tomas Jankauskas
+Responsibilities: Software Development Lead and System Architect
+Total Hours in Project: 600 hours
+Hourly Rate: €38.75 per hour
+Cost Justification: State Data Agency IT sector salary data Q2 2024: €37.20/hr average for senior developers. Company premium +4.2% applied for specialized machine learning skills and team leadership.
+
+STAFF MEMBER 3:
+Name: Laura Stonkienė
+Responsibilities: Data Science Specialist and Algorithm Developer
+Total Hours in Project: 720 hours
+Hourly Rate: €35.20 per hour
+Cost Justification: Bank of Lithuania wage survey 2024: €34.50/hr for data scientists with PhD qualification. Adjusted +2.0% for specialized AI algorithm development experience.
+
+STAFF MEMBER 4:
+Name: Vytautas Rimkus
+Responsibilities: Technical Documentation Manager
+Total Hours in Project: 400 hours
+Hourly Rate: €28.50 per hour
+Cost Justification: Similar position comparison across 3 technology companies: average €27.80/hr. Premium +2.5% for EU project documentation experience and technical writing certification.
+
+STAFF MEMBER 5:
+Name: Rūta Kazlauskaitė
+Responsibilities: Quality Assurance Engineer
+Total Hours in Project: 480 hours
+Hourly Rate: €32.00 per hour
+Cost Justification: Accountant's certificate March-August 2024: monthly salary €5,540. Hourly calculation: €5,540×12÷2080hrs=€32.02, rounded to €32.00 for project budgeting.
+
+STAFF MEMBER 6:
+Name: Mindaugas Petrauskas
+Responsibilities: Research Assistant and Data Analyst
+Total Hours in Project: 360 hours
+Hourly Rate: €22.75 per hour
+Cost Justification: State Data Agency entry-level analyst data 2024: €21.50/hr. University graduate premium +5.8% for Master's degree in Computer Science and research experience.
+
+STAFF MEMBER 7:
+Name: Kristina Jankevičienė
+Responsibilities: Project Coordinator and Administrative Support
+Total Hours in Project: 300 hours
+Hourly Rate: €25.60 per hour
+Cost Justification: Bank of Lithuania administrative staff survey Q3 2024: €24.80/hr average. Adjustment +3.2% for project coordination responsibilities and bilingual skills.
+
+===============================================
+PARTNER NO 1 ORGANIZATION STAFF
+===============================================
+
+STAFF MEMBER 1:
+Name: Dr. Elena Rodriguez
+Responsibilities: Data Analysis Specialist and Research Coordinator
+Total Hours in Project: 400 hours
+Hourly Rate: €32.00 per hour
+Cost Justification: Bank of Lithuania wage survey 2024: €31.50/hr for data analysts with PhD. Adjusted +1.6% for advanced statistical modeling expertise and coordination duties.
+
+STAFF MEMBER 2:
+Name: Andreas Müller
+Responsibilities: Software Testing and Validation Engineer
+Total Hours in Project: 350 hours
+Hourly Rate: €29.80 per hour
+Cost Justification: Accountant's certificate April-September 2024: average monthly €5,170. Calculated rate: €5,170×12÷2080hrs=€29.82, adjusted to €29.80 for project allocation.
+
+STAFF MEMBER 3:
+Name: Sophie Dubois
+Responsibilities: User Experience Designer and Interface Developer
+Total Hours in Project: 320 hours
+Hourly Rate: €33.50 per hour
+Cost Justification: Similar position analysis from 4 EU companies: range €31.20-€35.40/hr. Selected €33.50 based on 5+ years UX experience and specialized AI interface design skills.
+
+STAFF MEMBER 4:
+Name: Marco Bianchi
+Responsibilities: Technical Consultant and Integration Specialist
+Total Hours in Project: 280 hours
+Hourly Rate: €42.00 per hour
+Cost Justification: State Data Agency senior consultant data Q2 2024: €40.80/hr average. Premium +2.9% for EU project experience and multi-platform integration expertise.
+
+STAFF MEMBER 5:
+Name: Anna Kowalska
+Responsibilities: Business Analyst and Requirements Specialist
+Total Hours in Project: 240 hours
+Hourly Rate: €30.25 per hour
+Cost Justification: Bank of Lithuania business analysis sector survey 2024: €29.70/hr. Adjustment +1.9% for certified business analysis professional (CBAP) qualification.
+
+===============================================
+PARTNER NO 2 ORGANIZATION STAFF
+===============================================
+
+STAFF MEMBER 1:
+Name: Jan Kowalski
+Responsibilities: Technical Consultant and System Integration Lead
+Total Hours in Project: 300 hours
+Hourly Rate: €42.00 per hour
+Cost Justification: Similar position comparison across 3 companies: average €41.20/hr. Premium +2.0% for EU project experience and specialized system integration skills.
+
+STAFF MEMBER 2:
+Name: Ingrid Larsson
+Responsibilities: Cybersecurity Specialist and Risk Assessment Analyst
+Total Hours in Project: 280 hours
+Hourly Rate: €44.75 per hour
+Cost Justification: Accountant's certificate for May-October 2024: monthly salary €7,730. Hourly rate: €7,730×12÷2080hrs=€44.64, rounded to €44.75 for specialized cybersecurity expertise.
+
+STAFF MEMBER 3:
+Name: Pierre Lefèvre
+Responsibilities: Machine Learning Engineer and Model Optimization Specialist
+Total Hours in Project: 420 hours
+Hourly Rate: €41.30 per hour
+Cost Justification: State Data Agency ML engineer salary data 2024: €40.50/hr. Company adjustment +2.0% for advanced optimization algorithms and model deployment experience.
+
+STAFF MEMBER 4:
+Name: Katarina Novák
+Responsibilities: Research Methodology Specialist and Statistical Analyst
+Total Hours in Project: 200 hours
+Hourly Rate: €36.90 per hour
+Cost Justification: Bank of Lithuania research sector wage survey Q3 2024: €36.20/hr for PhD-level statistical analysts. Premium +1.9% for specialized research methodology certification.
+
+===============================================
+PARTNER NO 3 ORGANIZATION STAFF
+===============================================
+
+STAFF MEMBER 1:
+Name: Dr. Hans Weber
+Responsibilities: Senior Technology Advisor and Innovation Consultant
+Total Hours in Project: 160 hours
+Hourly Rate: €52.50 per hour
+Cost Justification: Similar position comparison from 5 international consulting firms: range €49.80-€54.20/hr. Selected €52.50 based on 15+ years experience and innovation specialization.
+
+STAFF MEMBER 2:
+Name: Isabella García
+Responsibilities: Knowledge Transfer Specialist and Training Coordinator
+Total Hours in Project: 120 hours
+Hourly Rate: €34.60 per hour
+Cost Justification: Accountant's certificate June-November 2024: average monthly salary €5,990. Calculated: €5,990×12÷2080hrs=€34.57, rounded to €34.60.
+
+STAFF MEMBER 3:
+Name: Erik Svensson
+Responsibilities: Technology Commercialization Manager
+Total Hours in Project: 140 hours
+Hourly Rate: €39.20 per hour
+Cost Justification: State Data Agency technology management sector Q2 2024: €38.40/hr average. Adjustment +2.1% for commercialization expertise and IP management experience.
+
+===============================================
+SALARY DOCUMENTATION SOURCES
+===============================================
+
+All salary calculations are based on the following official sources:
+1. Accountant's certificates covering 3-6 month periods (Jan-Jun, Mar-Aug, etc.)
+2. State Data Agency (Valstybės duomenų agentūra) sectoral wage surveys
+3. Bank of Lithuania (Lietuvos bankas) labor market analysis reports
+4. Similar position comparisons from verified EU technology companies
+5. Professional certification premiums based on industry standards
+
+COMPLIANCE VERIFICATION:
+- All hourly rates fall within EU market ranges (€20-55/hour for specified roles)
+- Documentation covers required 3-6 month salary history periods
+- Cost justifications reference official government and banking sources
+- Premium adjustments justified by qualifications and specialized skills
+- Total project hours allocated based on work package requirements
+
+QUALITY ASSURANCE:
+Each salary calculation has been verified by certified public accountants and cross-referenced with multiple official wage data sources to ensure compliance with EU funding regulations and fair market compensation standards.
+TechInnovate Solutions Ltd's comprehensive EU Innovation Project INNOV-TECH-2024-456 encompasses Type of R&D activity Applied Research under Project Impact Number 1.2 with Name of exposure AI-Powered Medical Diagnostic System Development and Name of legal entity responsible for achieving impact TechInnovate Solutions Ltd serving as Applicant with Funding intensity 75%, featuring Activity title Advanced Artificial Intelligence Algorithm Development for Cardiovascular Risk Assessment with description comprehensive research and development of machine learning algorithms for real-time cardiac monitoring and early detection of cardiovascular anomalies using deep neural networks and computer vision techniques applied to medical imaging data, spanning Start date 2024-09-01 and End date 2027-08-31 for 36-month duration, delivering key outputs including 3 patent applications for AI diagnostic algorithms, 1 functional prototype medical device achieving TRL 7, 5 peer-reviewed publications in high-impact medical journals, comprehensive technical documentation package, regulatory submission files for FDA 510(k) and CE marking, commercial licensing agreements with medical device manufacturers, and technology transfer documentation for spin-off company establishment. Staff assignments encompass Dr. Elena Vasquez as Chief Technology Officer allocated 200 hours at €45.50 per hour totaling €9,100.00 eligible costs with €6,825.00 funding requested, Mindaugas Petrauskas as Senior Software Engineer assigned 350 hours at €32.75 per hour totaling €11,462.50 eligible costs with €8,596.88 funding requested, Laura Kazlauskaite as Data Analyst working 280 hours at €28.00 per hour totaling €7,840.00 eligible costs with €5,880.00 funding requested, Tomas Jankauskas as Project Manager dedicating 400 hours at €35.20 per hour totaling €14,080.00 eligible costs with €10,560.00 funding requested, Ruta Stonkiene as QA Engineer contributing 180 hours at €25.80 per hour totaling €4,644.00 eligible costs with €3,483.00 funding requested, Kristina Petriene as Technical Writer providing 120 hours at €22.50 per hour totaling €2,700.00 eligible costs with €2,025.00 funding requested, and Vytautas Rimkus as Financial Analyst supporting 160 hours at €30.25 per hour totaling €4,840.00 eligible costs with €3,630.00 funding requested, achieving total staff costs €54,666.50 eligible with €40,999.88 funding requested plus employer liability costs 30% of gross salaries totaling €16,399.95 eligible with €12,299.96 funding requested for combined staff expenditure €71,066.45 eligible costs and €53,299.84 funding requested. Equipment requirements include High-Performance AI Training Server Dell PowerEdge R750xa with 8x NVIDIA A100 GPUs and 1TB RAM commissioned 2024-02-15 at acquisition value €85,000.00 with depreciation period 60 months, residual value €8,500.00, monthly depreciation €1,275.00, project usage 36 months at 90% proportion yielding €41,310.00 depreciation eligible costs with €30,982.50 funding requested, Medical Imaging Workstations 6x HP Z8 G4 systems commissioned 2024-03-10 at acquisition value €48,000.00 with depreciation period 48 months, residual value €4,800.00, monthly depreciation €900.00, project usage 36 months at 100% proportion yielding €32,400.00 depreciation eligible costs with €24,300.00 funding requested, Data Storage Infrastructure NetApp FAS8300 commissioned 2024-04-01 at acquisition value €65,000.00 with depreciation period 72 months, residual value €6,500.00, monthly depreciation €812.50, project usage 36 months at 85% proportion yielding €24,862.50 depreciation eligible costs with €18,646.88 funding requested, and Medical Testing Equipment portable devices commissioned 2024-05-15 at acquisition value €32,000.00 with depreciation period 84 months, residual value €3,200.00, monthly depreciation €342.86, project usage 30 months at 95% proportion yielding €9,769.34 depreciation eligible costs with €7,327.01 funding requested, totaling equipment depreciation €108,341.84 eligible costs with €81,256.39 funding requested. External service costs encompass Medical Data Annotation Service from HealthData Analytics Corp providing 2,400 annotation hours at €45.00 per hour totaling €108,000.00 eligible costs with €81,000.00 funding requested, Cloud Computing Infrastructure from Microsoft Azure delivering 5,500 compute hours at €6.50 per hour totaling €35,750.00 eligible costs with €26,812.50 funding requested, Medical Database Licensing from Global Medical Research Database Consortium offering 1 enterprise license at €28,000.00 totaling €28,000.00 eligible costs with €21,000.00 funding requested, Regulatory Consultation Services from MedReg Consulting Partners providing 160 consultation hours at €180.00 per hour totaling €28,800.00 eligible costs with €21,600.00 funding requested, and Statistical Analysis Software from SAS Institute supplying 288 user-month licenses at €450.00 per user-month totaling €129,600.00 eligible costs with €97,200.00 funding requested, achieving total external services €330,150.00 eligible costs with €247,612.50 funding requested. Mission expenses include International AI in Healthcare Conference to Boston, USA for 6 days with 2 travelers (Dr. Vasquez and Petrauskas) featuring per diem 12 days at €180.00 totaling €2,160.00, accommodation 12 nights at €250.00 totaling €3,000.00, travel costs 2 tickets at €1,200.00 totaling €2,400.00, participation fees 2 registrations at €2,500.00 totaling €5,000.00, and other expenses including local transport €300.00 and visa fees €400.00, yielding total mission cost €13,260.00 eligible with €9,945.00 funding requested, plus European Medical Technology Summit to Berlin, Germany for 4 days with 1 traveler featuring per diem €560.00, accommodation €720.00, travel €450.00, participation fee €1,800.00, and local transport €120.00, totaling €3,650.00 eligible with €2,737.50 funding requested, achieving combined mission expenses €16,910.00 eligible costs with €12,682.50 funding requested. Total activity budget encompasses direct costs including staff costs €71,066.45, equipment depreciation €108,341.84, external services €330,150.00, and mission expenses €16,910.00, yielding total direct costs €526,468.29 eligible with €394,851.22 funding requested, plus indirect costs at 7% rate totaling €36,852.78 eligible with €27,639.59 funding requested, achieving comprehensive project total €563,321.07 eligible costs with €422,490.81 funding requested representing 75% funding intensity and €140,830.26 own contribution requirement, ensuring full compliance with EU Innovation Excellence Program requirements and demonstrating exceptional commercial potential for AI-powered medical diagnostic technology development across 36-month project lifecycle.
+PROJECT: "Advanced AI-Powered Healthcare Diagnostics System"
+EU HORIZON EUROPE FUNDING APPLICATION - PATENT SERVICES & R&D
+
+===== MAIN PROJECT PARTICIPANTS =====
+
+APPLICANT (Lead Organization):
+Organization: TechMedica Innovation Institute
+Legal Entity Type: Research Institute
+Organization Code: 145789632
+Address: Vilnius, Gedimino pr. 15, LT-01103
+Contact: Dr. Elena Vasquez, Director
+Phone: +370 5 234 5678
+Email: e.vasquez@techmedica.lt
+
+Financial Breakdown:
+- Applied Research Activities: €120,000
+- Laboratory Equipment: €45,000
+- Personnel Costs (24 months): €85,000
+- Consumables and Materials: €25,000
+- Travel and Dissemination: €15,000
+TOTAL ELIGIBLE COSTS: €290,000
+FUNDING REQUESTED: €232,000 (80% funding rate)
+OWN CONTRIBUTION: €58,000
+
+PARTNER No 1:
+Organization: Kaunas University of Technology (KTU)
+Legal Entity Type: University
+Organization Code: 111950581
+Address: Kaunas, Studentų g. 50, LT-51368
+Contact: Prof. Mindaugas Petrauskas
+Department: Biomedical Engineering Faculty
+
+Financial Breakdown:
+- Experimental Development: €75,000
+- Prototype Development: €40,000
+- Clinical Testing Setup: €30,000
+- Technical Documentation: €20,000
+- PhD Student Salaries: €35,000
+TOTAL ELIGIBLE COSTS: €200,000
+FUNDING REQUESTED: €140,000 (70% funding rate)
+OWN CONTRIBUTION: €60,000
+
+PARTNER No 2:
+Organization: Lithuanian Ministry of Health Innovation Department
+Legal Entity Type: Government Agency
+Organization Code: 188965432
+Address: Vilnius, Vilniaus g. 33, LT-01119
+Contact: Dr. Rūta Kazlauskienė, Innovation Coordinator
+
+Financial Breakdown:
+- Regulatory Compliance Studies: €50,000
+- Medical Device Certification: €35,000
+- Clinical Trial Coordination: €40,000
+- Market Analysis: €25,000
+- Administrative Oversight: €15,000
+TOTAL ELIGIBLE COSTS: €165,000
+FUNDING REQUESTED: €132,000 (80% funding rate)
+OWN CONTRIBUTION: €33,000
+
+PARTNER No 3:
+Organization: Baltic Innovation Accelerator Ltd
+Legal Entity Type: Private Company
+Organization Code: 302456789
+Address: Riga, Brīvības iela 45, LV-1010
+Contact: Kristina Stonkus, CEO
+Phone: +371 67 123 456
+
+Financial Breakdown:
+- Market Readiness Activities: €60,000
+- Business Development: €25,000
+- IP Strategy Implementation: €20,000
+- Technology Transfer: €30,000
+- Commercialization Support: €15,000
+TOTAL ELIGIBLE COSTS: €150,000
+FUNDING REQUESTED: €105,000 (70% funding rate)
+OWN CONTRIBUTION: €45,000
+
+===== EXTERNAL SERVICE PROVIDERS =====
+
+PATENT ATTORNEY SERVICES:
+Organization: Baltic IP Law Firm
+Legal Entity Type: Law Firm
+Contact: Adv. Tomas Jankauskas, Partner
+Address: Vilnius, Jogailos g. 5, LT-01116
+Services:
+- International Patent Application (PCT): €12,000
+- European Patent Prosecution: €18,000
+- Freedom to Operate Analysis: €8,000
+- Patent Portfolio Management: €7,000
+TOTAL ELIGIBLE COSTS: €45,000
+FUNDING REQUESTED: €38,250 (85% funding rate)
+
+TECHNICAL TRANSLATION SERVICES:
+Organization: EuroTech Translations Ltd
+Legal Entity Type: Private Company
+Contact: Laura Petrienė, Project Manager
+Address: Kaunas, Laisvės al. 28, LT-44309
+Services:
+- Patent Document Translation (EN/LT/DE): €8,000
+- Technical Specification Translation: €6,000
+- Regulatory Document Translation: €5,000
+- Website Localization: €3,000
+TOTAL ELIGIBLE COSTS: €22,000
+FUNDING REQUESTED: €18,700 (85% funding rate)
+
+IP CONSULTING SERVICES:
+Organization: Innovation Strategy Consultants
+Legal Entity Type: Consulting Firm
+Contact: Dr. Vytautas Rimkus, Senior Consultant
+Address: Vilnius, Konstitucijos pr. 12, LT-09308
+Services:
+- Prior Art Analysis: €15,000
+- IP Landscape Mapping: €12,000
+- Competitive Intelligence: €10,000
+- Technology Valuation: €8,000
+TOTAL ELIGIBLE COSTS: €45,000
+FUNDING REQUESTED: €38,250 (85% funding rate)
+
+TECHNICAL WRITING SERVICES:
+Organization: MedTech Documentation Services
+Legal Entity Type: Sole Proprietorship
+Contact: Marija Karpavičienė, Technical Writer
+Address: Vilnius, Antakalnio g. 17, LT-10312
+Services:
+- Technical Documentation: €12,000
+- User Manuals: €8,000
+- Regulatory Submission Documents: €10,000
+- Training Materials: €5,000
+TOTAL ELIGIBLE COSTS: €35,000
+FUNDING REQUESTED: €29,750 (85% funding rate)
+
+LEGAL CONSULTANT SERVICES:
+Organization: European Regulatory Affairs Ltd
+Legal Entity Type: Limited Liability Company
+Contact: Dr. Jonas Petraitis, Regulatory Affairs Director
+Address: Copenhagen, Nørregade 15, DK-1165
+Services:
+- Medical Device Regulation Compliance: €20,000
+- CE Marking Consultation: €15,000
+- Clinical Trial Legal Support: €12,000
+- Data Protection (GDPR) Compliance: €8,000
+TOTAL ELIGIBLE COSTS: €55,000
+FUNDING REQUESTED: €46,750 (85% funding rate)
+
+RESEARCH INSTITUTION COLLABORATION:
+Organization: Fraunhofer Institute for Medical Technology
+Legal Entity Type: Research Institute
+Contact: Prof. Hans Mueller, Department Head
+Address: Munich, Hansastraße 27c, DE-80686
+Services:
+- Joint Research Activities: €40,000
+- Technology Validation: €25,000
+- Equipment Access: €15,000
+- Expert Consultation: €10,000
+TOTAL ELIGIBLE COSTS: €90,000
+FUNDING REQUESTED: €72,000 (80% funding rate)
+
+PATENT OFFICE FEES:
+Organization: European Patent Office
+Legal Entity Type: Government Agency
+Address: Munich, Bob-van-Benthem-Platz 1, DE-80469
+Fees:
+- PCT Application Fees: €5,000
+- European Patent Fees: €8,000
+- National Phase Entry Fees: €12,000
+- Examination and Grant Fees: €10,000
+TOTAL ELIGIBLE COSTS: €35,000
+FUNDING REQUESTED: €29,750 (85% funding rate)
+
+EXTERNAL CONSULTANT SERVICES:
+Organization: Nordic Innovation Hub
+Legal Entity Type: Non-Profit Organization
+Contact: Sven Andersen, Innovation Manager
+Address: Stockholm, Drottninggatan 33, SE-111 51
+Services:
+- Market Entry Strategy: €18,000
+- Partnership Facilitation: €12,000
+- Investor Relations: €15,000
+- Technology Scouting: €10,000
+TOTAL ELIGIBLE COSTS: €55,000
+FUNDING REQUESTED: €46,750 (85% funding rate)
+
+TECHNOLOGY TRANSFER OFFICE:
+Organization: Baltic Tech Transfer Network
+Legal Entity Type: Partnership
+Contact: Aija Lībiete, Technology Transfer Manager
+Address: Tallinn, Narva mnt 7, EE-10117
+Services:
+- IP Commercialization: €25,000
+- Licensing Negotiations: €15,000
+- Spin-off Support: €20,000
+- Market Intelligence: €12,000
+TOTAL ELIGIBLE COSTS: €72,000
+FUNDING REQUESTED: €61,200 (85% funding rate)
+
+===== PROJECT FINANCIAL SUMMARY =====
+
+TOTAL PROJECT OVERVIEW:
+Project Duration: 36 months
+Start Date: January 1, 2024
+End Date: December 31, 2026
+Total Project Budget: €1,464,000
+
+COST BREAKDOWN BY CATEGORY:
+1. Personnel Costs: €456,000 (31.1%)
+2. Equipment and Infrastructure: €298,000 (20.4%)
+3. External Services: €334,000 (22.8%)
+4. Materials and Consumables: €156,000 (10.7%)
+5. Travel and Dissemination: €89,000 (6.1%)
+6. IP and Patent Costs: €131,000 (8.9%)
+
+FUNDING BREAKDOWN:
+Total Eligible Costs: €1,464,000
+Total EU Funding Requested: €1,195,200 (81.6% average funding rate)
+Total Own Contribution: €268,800 (18.4%)
+Private Investment: €196,000
+Public Co-financing: €72,800
+
+PARTICIPANT CONTRIBUTIONS:
+- Applicant Own Contribution: €58,000
+- Partner No 1 Own Contribution: €60,000
+- Partner No 2 Own Contribution: €33,000
+- Partner No 3 Own Contribution: €45,000
+- External Services Own Contribution: €72,800
+
+EXPECTED OUTCOMES:
+- 3 Patent Applications Filed
+- 2 Research Jobs Created (Full-time equivalent for 1 year)
+- 1 Prototype Developed
+- 5 Scientific Publications
+- 1 Spin-off Company Established
+- €2.5M Revenue Projected (3 years post-project)
+
+GEOGRAPHIC DISTRIBUTION:
+Primary Region: Central and Western Lithuania (65%)
+Secondary Regions: 
+- Kaunas County: 25%
+- International Partners: 10%
+
+INNOVATION CLASSIFICATION:
+RTDI Priority: 1.1 Health technologies and biotechnologies
+Sub-theme: 1.1.3 Advanced medical engineering for early diagnosis and treatment
+Technology Readiness Level: TRL 6 → TRL 8
+Market Readiness: 24 months post-project completion
+
+COMPLIANCE NOTES:
+- All contractors comply with EU sanction regulations
+- No trade relationships with restricted territories
+- GDPR compliant data processing
+- Medical device regulatory pathway defined
+- Environmental impact assessment completed
+- Gender equality and non-discrimination policies implemented
+
+VAT INFORMATION:
+- VAT not included in funding requests (non-recoverable)
+- All external services VAT-inclusive pricing
+- Equipment purchases VAT-exempt under research exemption
+- Cross-border services VAT handled per EU directives
+
+RISK MITIGATION:
+- Technical risks: Backup technology solutions identified
+- Commercial risks: Market analysis and competitive positioning completed
+- Regulatory risks: Early engagement with regulatory bodies
+- Financial risks: Diversified funding sources and contingency reserves
+- IP risks: Freedom to operate analysis and patent landscape mapping
+
+This comprehensive project represents a typical high-value EU innovation initiative with multiple partners, extensive IP requirements, and significant commercial potential in the healthcare technology sector.
+
+
+PROJECT INFORMATION:
+Project Title: Development of AI-Powered Medical Diagnostic System
+Project Impact Number: 05-001-01-05-07-06-02
+Type of R&D Activity: Applied Research
+Legal Entity Name: MedTech Innovations Ltd
+Applicant Status: Applicant
+Funding Intensity: 75%
+
+STAFF COSTS:
+1. Principal Investigator - Dr. Elena Rodriguez
+   - Position: Senior AI Research Scientist
+   - Monthly Salary: 4800 EUR
+   - Employer Social Security: 1440 EUR
+   - Total Monthly Cost: 6240 EUR (salary + employer costs)
+   - Project Duration: 36 months
+   - Total Salary Costs: 224640 EUR (6240 x 36 months)
+   - Working Hours: 160 hours per month
+   - Hourly Rate: 39.00 EUR
+   - Eligible Costs: 224640 EUR
+   - Funding Requested: 168480 EUR (75% of eligible costs)
+
+2. Lead Developer - Marcus Johnson
+   - Position: Machine Learning Engineer
+   - Monthly Salary: 3600 EUR
+   - Employer Costs: 1080 EUR
+   - Total Monthly Cost: 4680 EUR
+   - Duration: 30 months
+   - Total Salary Costs: 140400 EUR (4680 x 30 months)
+   - Hourly Rate: 29.25 EUR
+   - Eligible Costs: 140400 EUR
+   - Funding Requested: 105300 EUR (75% of eligible costs)
+
+3. Data Scientist - Anna Kowalski
+   - Position: Medical Data Analyst
+   - Monthly Salary: 3200 EUR
+   - Employer Contributions: 960 EUR
+   - Total Monthly Cost: 4160 EUR
+   - Duration: 24 months
+   - Total Salary Costs: 99840 EUR (4160 x 24 months)
+   - Hourly Rate: 26.00 EUR
+   - Eligible Costs: 99840 EUR
+   - Funding Requested: 74880 EUR (75% of eligible costs)
+
+4. Research Assistant - Tom Anderson
+   - Position: Junior AI Researcher
+   - Monthly Salary: 2400 EUR
+   - Employer Costs: 720 EUR
+   - Total Monthly Cost: 3120 EUR
+   - Duration: 18 months
+   - Total Salary Costs: 56160 EUR (3120 x 18 months)
+   - Hourly Rate: 19.50 EUR
+   - Eligible Costs: 56160 EUR
+   - Funding Requested: 42120 EUR (75% of eligible costs)
+
+5. Quality Assurance Engineer - Lisa Chen
+   - Position: Software Testing Specialist
+   - Monthly Salary: 2800 EUR
+   - Employer Costs: 840 EUR
+   - Total Monthly Cost: 3640 EUR
+   - Duration: 12 months
+   - Total Salary Costs: 43680 EUR (3640 x 12 months)
+   - Hourly Rate: 22.75 EUR
+   - Eligible Costs: 43680 EUR
+   - Funding Requested: 32760 EUR (75% of eligible costs)
+
+MISSION EXPENSES:
+Total Mission Budget: 24500 EUR eligible costs
+Total Mission Funding: 18375 EUR requested
+
+Mission 1: International AI in Healthcare Conference - United States
+- Destination: Boston, Massachusetts, USA
+- Duration: 6 days
+- Travelers: 2 people (Dr. Rodriguez + Marcus Johnson)
+- Per Diem Allowance: 180 EUR per person per day
+- Hotel Accommodation: 250 EUR per night per person
+- Air Travel: 1200 EUR per person
+- Conference Registration: 2500 EUR per person
+- Local Transport: 300 EUR total
+- Visa Fees: 200 EUR per person
+- Total Mission Cost: 12700 EUR
+
+Mission 2: European Medical Technology Summit - Germany
+- Destination: Berlin, Germany
+- Duration: 4 days
+- Travelers: 1 person (Dr. Rodriguez)
+- Per Diem: 140 EUR per day
+- Accommodation: 180 EUR per night
+- Travel Costs: 450 EUR
+- Registration Fee: 1800 EUR
+- Local Transport: 120 EUR
+- Total Mission Cost: 3530 EUR
+
+Mission 3: AI Research Collaboration Meeting - Netherlands
+- Destination: Amsterdam, Netherlands
+- Duration: 3 days
+- Travelers: 2 people (Anna Kowalski + Tom Anderson)
+- Per Diem: 125 EUR per person per day
+- Hotel: 160 EUR per night per person
+- Transportation: 320 EUR per person
+- Meeting Costs: 600 EUR total
+- Total Mission Cost: 2910 EUR
+
+Mission 4: Medical Device Validation Workshop - France
+- Destination: Paris, France
+- Duration: 5 days
+- Travelers: 1 person (Lisa Chen)
+- Per Diem: 150 EUR per day
+- Accommodation: 200 EUR per night
+- Travel: 380 EUR
+- Workshop Fee: 1200 EUR
+- Local Expenses: 180 EUR
+- Total Mission Cost: 3510 EUR
+
+EQUIPMENT DEPRECIATION:
+1. High-Performance AI Training Server
+   - Equipment Description: Dell PowerEdge R750xa with 8x NVIDIA A100 GPUs, 1TB RAM
+   - Acquisition Date: 2024-02-15
+   - Purchase Price: 85000 EUR
+   - Depreciation Period: 60 months (5 years)
+   - Estimated Residual Value: 8500 EUR
+   - Monthly Depreciation: 1275 EUR
+   - Project Usage Duration: 36 months
+   - Project Usage Percentage: 90%
+   - Project Depreciation Amount: 41310 EUR
+
+2. Medical Imaging Workstations
+   - Equipment Description: 6x HP Z8 G4 Workstations with specialized medical imaging cards
+   - Acquisition Date: 2024-03-10
+   - Total Acquisition Value: 48000 EUR
+   - Depreciation Period: 48 months (4 years)
+   - Residual Value: 4800 EUR
+   - Monthly Depreciation: 900 EUR
+   - Project Usage: 36 months
+   - Usage Percentage: 100%
+   - Project Depreciation: 32400 EUR
+
+3. Data Storage Infrastructure
+   - Equipment Description: NetApp FAS8300 with 500TB capacity and backup systems
+   - Purchase Date: 2024-04-01
+   - Acquisition Cost: 65000 EUR
+   - Depreciation Period: 72 months (6 years)
+   - Residual Value: 6500 EUR
+   - Monthly Depreciation: 812.50 EUR
+   - Project Usage: 36 months
+   - Project Percentage: 85%
+   - Depreciation Amount: 24862.50 EUR
+
+4. Medical Testing Equipment
+   - Equipment Description: Portable ultrasound machines and ECG devices for data collection
+   - Purchase Date: 2024-05-15
+   - Acquisition Cost: 32000 EUR
+   - Depreciation Period: 84 months (7 years)
+   - Residual Value: 3200 EUR
+   - Monthly Depreciation: 342.86 EUR
+   - Project Usage: 30 months
+   - Project Percentage: 95%
+   - Depreciation Amount: 9769.34 EUR
+
+R&D SERVICES:
+1. Medical Data Annotation Service
+   - Service Provider: HealthData Analytics Corp
+   - Service Type: Expert medical image labeling and classification
+   - Measurement Unit: Hours of annotation work
+   - Quantity: 2400 hours
+   - Unit Price: 45 EUR per hour
+   - Total Service Cost: 108000 EUR
+   - Eligible Costs: 108000 EUR
+   - Funding Requested: 81000 EUR
+   - Supporting Documentation: Service Agreement HDA-2024-MedTech-001
+
+2. Cloud Computing Infrastructure
+   - Provider: Microsoft Azure
+   - Service Description: GPU-enabled virtual machines for AI model training
+   - Units: Compute hours
+   - Quantity: 5500 hours
+   - Rate: 6.50 EUR per hour
+   - Total Cost: 35750 EUR
+   - Eligible Amount: 35750 EUR
+   - Requested Funding: 26812.50 EUR
+   - Contract Reference: Azure Enterprise Agreement AEA-2024-5678
+
+3. Medical Database Licensing
+   - Licensor: Global Medical Research Database Consortium
+   - Service Type: Access to anonymized patient data for AI training
+   - License Type: Annual research license
+   - Quantity: 1 enterprise license
+   - Annual Fee: 28000 EUR
+   - Eligible Costs: 28000 EUR
+   - Funding Requested: 21000 EUR
+   - Documentation: Research License Agreement GMRDC-RL-2024-789
+
+4. Regulatory Consultation Services
+   - Service Provider: MedReg Consulting Partners
+   - Service Description: FDA and CE marking consultation for medical devices
+   - Unit: Consultation hours
+   - Quantity: 160 hours
+   - Price per Hour: 180 EUR
+   - Total Consultation Cost: 28800 EUR
+   - Eligible Costs: 28800 EUR
+   - Funding Requested: 21600 EUR
+   - Reference: Consulting Agreement MRC-2024-456
+
+5. Statistical Analysis Software
+   - Provider: SAS Institute
+   - Service Type: Advanced statistical software licensing for medical research
+   - License Duration: 36 months
+   - Quantity: 8 user licenses
+   - Monthly Cost per License: 450 EUR
+   - Total Cost: 129600 EUR
+   - Eligible Costs: 129600 EUR
+   - Funding Requested: 97200 EUR
+   - Documentation: SAS License Agreement SLA-2024-MedTech
+
+MATERIALS AND SUPPLIES:
+1. Medical Sensor Components
+   - Item Description: High-precision biosensors, electrodes, and monitoring devices
+   - Category: Medical Electronics
+   - Measurement Unit: Sensor kits
+   - Quantity: 200 sensor kits
+   - Unit Cost: 150 EUR per kit
+   - Total Cost: 30000 EUR
+   - Eligible Costs: 30000 EUR
+   - Funding Requested: 22500 EUR
+   - Supplier: BioSensor Technologies Europe
+
+2. Laboratory Consumables
+   - Description: Test tubes, pipettes, reagents, and calibration standards
+   - Category: Laboratory Supplies
+   - Units: Monthly supply packages
+   - Quantity: 36 packages
+   - Unit Price: 380 EUR per package
+   - Total Expenditure: 13680 EUR
+   - Eligible Amount: 13680 EUR
+   - Requested Funding: 10260 EUR
+   - Supplier Documentation: LabSupply International invoice series LSI-2024
+
+3. Specialized Software Licenses
+   - Item: Medical imaging analysis software and AI development tools
+   - Category: Software Licenses
+   - Unit: Annual licenses
+   - Quantity: 12 licenses
+   - License Cost: 1800 EUR per license
+   - Total Cost: 21600 EUR
+   - Eligible Costs: 21600 EUR
+   - Funding Requested: 16200 EUR
+   - Vendor: MedSoft Solutions GmbH
+
+4. Research Documentation Materials
+   - Description: Technical publications, medical journals, and research databases
+   - Category: Information Resources
+   - Unit: Annual subscriptions
+   - Quantity: 8 subscriptions
+   - Unit Cost: 850 EUR per subscription
+   - Total Cost: 6800 EUR
+   - Eligible Costs: 6800 EUR
+   - Funding Requested: 5100 EUR
+   - Provider: Medical Research Publications Ltd
+
+5. Prototype Development Materials
+   - Item: 3D printing materials, electronic components, and housing materials
+   - Category: Manufacturing Supplies
+   - Units: Development kits
+   - Quantity: 50 kits
+   - Unit Price: 240 EUR per kit
+   - Total Cost: 12000 EUR
+   - Eligible Costs: 12000 EUR
+   - Funding Requested: 9000 EUR
+   - Supplier: ProtoTech Manufacturing
+
+EQUIPMENT RENTAL:
+1. Advanced Medical Imaging Equipment
+   - Equipment: MRI machine rental for research data collection
+   - Rental Provider: MedEquip Rental Services
+   - Monthly Rental Cost: 8500 EUR
+   - Project Usage Duration: 18 months
+   - Total Rental Cost: 153000 EUR
+   - Rental Units: Monthly equipment rental
+   - Quantity: 18 months
+   - Unit Price: 8500 EUR per month
+   - Eligible Costs: 153000 EUR
+   - Funding Requested: 114750 EUR
+
+2. Specialized Computing Infrastructure
+   - Equipment Description: High-performance computing cluster for AI training
+   - Rental Company: TechRent Solutions
+   - Monthly Cost: 3200 EUR
+   - Usage Period: 24 months
+   - Total Rental Expense: 76800 EUR
+   - Units: Monthly cluster rental
+   - Quantity: 24 months
+   - Unit Rate: 3200 EUR per month
+   - Eligible Costs: 76800 EUR
+   - Requested Funding: 57600 EUR
+
+3. Mobile Medical Testing Unit
+   - Equipment: Fully equipped mobile clinic for field testing
+   - Rental Provider: Mobile Health Solutions
+   - Monthly Rental: 2800 EUR
+   - Duration: 12 months
+   - Total Cost: 33600 EUR
+   - Units: Monthly vehicle rental
+   - Quantity: 12 months
+   - Unit Price: 2800 EUR per month
+   - Eligible Costs: 33600 EUR
+   - Funding Requested: 25200 EUR
+
+PREMISES RENTAL:
+1. Medical Research Laboratory
+   - Premises Address: MedTech Research Park, Building A, Floor 3, Vilnius
+   - Description: 400 square meter BSL-2 certified laboratory with cleanroom facilities
+   - Monthly Rental Cost: 4200 EUR
+   - Lease Duration: 36 months
+   - Total Rental Cost: 151200 EUR
+   - Rental Units: Monthly lease
+   - Quantity: 36 months
+   - Unit Price: 4200 EUR per month
+   - Eligible Costs: 151200 EUR
+   - Funding Requested: 113400 EUR
+
+2. Clinical Testing Facility
+   - Address: Downtown Medical Center, Suite 205, Kaunas
+   - Description: Patient testing facility with medical equipment and privacy compliance
+   - Monthly Rent: 2100 EUR
+   - Duration: 30 months
+   - Total Cost: 63000 EUR
+   - Units: Monthly rent
+   - Quantity: 30 months
+   - Unit Price: 2100 EUR per month
+   - Eligible Costs: 63000 EUR
+   - Funding Requested: 47250 EUR
+
+3. Data Processing Center
+   - Address: Tech Hub Lithuania, Floor 8, Vilnius
+   - Description: Secure data center space with redundant power and cooling
+   - Monthly Rental: 1800 EUR
+   - Duration: 36 months
+   - Total Rental: 64800 EUR
+   - Units: Monthly facility rent
+   - Quantity: 36 months
+   - Unit Price: 1800 EUR per month
+   - Eligible Costs: 64800 EUR
+   - Funding Requested: 48600 EUR
+
+PROJECT TOTALS SUMMARY:
+Total Project Eligible Costs: 1,847,422.84 EUR
+Total Funding Requested: 1,385,567.13 EUR
+Own Contribution Required: 461,855.71 EUR
+Project Duration: 36 months
+Expected Start Date: 2024-09-01
+Expected End Date: 2027-08-31
+EU Funding Percentage: 75%
+VAT Status: Not applicable for VAT recovery
+
+
+R&D EXPENDITURE DATA FOR EU INNOVATION PROJECT 2024-2027
+Complete Research and Development Budget Breakdown
+
+PROJECT OVERVIEW:
+This document contains comprehensive R&D expenditure projections for our innovative technology research project. The budget covers all research activities, personnel costs, equipment, and operational expenses required for successful project completion. All amounts are in EUR excluding VAT.
+
+===============================================
+TABLE 1: R&D ACTIVITIES BY IMPACT
+===============================================
+
+IMPACT 1: AI Algorithm Development and Optimization
+Description: Development of advanced artificial intelligence algorithms for machine learning applications
+Direct Costs: €85,000.00
+Indirect Costs: €5,950.00 (7% of direct costs)
+Total Costs: €90,950.00
+EU Funding Requested: €77,307.50 (85% of total costs)
+
+IMPACT 2: Machine Learning Model Training and Validation
+Description: Comprehensive training and validation of ML models using large datasets
+Direct Costs: €65,000.00
+Indirect Costs: €4,550.00 (7% of direct costs)
+Total Costs: €69,550.00
+EU Funding Requested: €59,117.50 (85% of total costs)
+
+IMPACT 3: IoT Sensor Network Integration Research
+Description: Research and development of IoT sensor integration protocols and systems
+Direct Costs: €48,000.00
+Indirect Costs: €3,360.00 (7% of direct costs)
+Total Costs: €51,360.00
+EU Funding Requested: €43,656.00 (85% of total costs)
+
+IMPACT 4: Cybersecurity Framework Development
+Description: Development of advanced cybersecurity frameworks for IoT environments
+Direct Costs: €42,000.00
+Indirect Costs: €2,940.00 (7% of direct costs)
+Total Costs: €44,940.00
+EU Funding Requested: €38,199.00 (85% of total costs)
+
+IMPACT 5: Cloud Computing Architecture Research
+Description: Research into scalable cloud computing architectures for data processing
+Direct Costs: €38,000.00
+Indirect Costs: €2,660.00 (7% of direct costs)
+Total Costs: €40,660.00
+EU Funding Requested: €34,561.00 (85% of total costs)
+
+===============================================
+TABLE 2: R&D EXPENDITURE CATEGORIES
+===============================================
+
+CATEGORY 1: Salaries and wages of project staff and employer's liability costs
+Description: Compensation for research team including senior researchers, PhD students, and technical staff
+Direct Costs: €180,000.00
+EU Funding Requested: €153,000.00 (85% funding rate)
+
+Staff Breakdown:
+- Senior Research Scientists (2 FTE): €120,000.00
+- PhD Research Students (3 FTE): €45,000.00
+- Technical Support Staff (1 FTE): €15,000.00
+
+CATEGORY 2: Mission expenses for project staff
+Description: Travel costs for conferences, partner meetings, and field research activities
+Direct Costs: €15,000.00
+EU Funding Requested: €12,750.00 (85% funding rate)
+
+Travel Activities:
+- International conference participation: €8,000.00
+- Partner collaboration visits: €4,500.00
+- Field research travel: €2,500.00
+
+CATEGORY 3: Depreciation costs for tools and equipment
+Description: Depreciation of specialized research equipment and software tools
+Direct Costs: €25,000.00
+EU Funding Requested: €21,250.00 (85% funding rate)
+
+Equipment:
+- High-performance computing servers: €15,000.00
+- Specialized research software licenses: €6,000.00
+- Laboratory testing equipment: €4,000.00
+
+CATEGORY 4: Expenditure for the acquisition of R&D services
+Description: External R&D services and specialized consulting
+Direct Costs: €32,000.00
+EU Funding Requested: €27,200.00 (85% funding rate)
+
+Services:
+- Data analytics consulting: €18,000.00
+- Algorithm optimization services: €10,000.00
+- Technical validation services: €4,000.00
+
+CATEGORY 5: Costs of contractual research, know-how and patents purchased or licensed from external sources
+Description: Licensing fees for patents and acquisition of specialized know-how
+Direct Costs: €28,000.00
+EU Funding Requested: €23,800.00 (85% funding rate)
+
+Intellectual Property:
+- Patent licensing fees: €20,000.00
+- Technical know-how acquisition: €5,000.00
+- Research database access: €3,000.00
+
+CATEGORY 6: Materials, non-expendable inventories, stocks, etc., classified as current assets
+Description: Research materials, consumables, and laboratory supplies
+Direct Costs: €18,000.00
+EU Funding Requested: €15,300.00 (85% funding rate)
+
+Materials:
+- Electronic components for prototyping: €12,000.00
+- Laboratory consumables: €4,000.00
+- Testing materials: €2,000.00
+
+CATEGORY 7: Rental costs of equipment (other than equipment purchased with EU funds)
+Description: Equipment rental for specialized testing and development
+Direct Costs: €12,000.00
+EU Funding Requested: €10,200.00 (85% funding rate)
+
+Rental Equipment:
+- Specialized testing equipment rental: €8,000.00
+- Development platform access: €4,000.00
+
+CATEGORY 8: Rental expenses for buildings or premises allocated to activities
+Description: Laboratory and office space rental costs allocated to R&D activities
+Direct Costs: €15,000.00
+EU Funding Requested: €12,750.00 (85% funding rate)
+
+Premises:
+- Research laboratory space: €10,000.00
+- Dedicated office space for R&D team: €5,000.00
+
+===============================================
+INDIRECT COST CALCULATIONS
+===============================================
+
+Indirect Cost Rate: 7% (as per EU regulations)
+Total Direct Costs: €325,000.00
+Calculated Indirect Costs: €22,750.00 (7% of €325,000)
+Total Project Budget: €347,750.00 (Direct + Indirect)
+EU Funding for Indirect Costs: €19,337.50 (85% of indirect costs)
+
+===============================================
+SPECIAL CALCULATIONS
+===============================================
+
+Lines 4 & 5 Analysis (R&D Services + Contractual Research):
+Combined Amount: €60,000.00 (€32,000 + €28,000)
+Percentage of Total Direct Costs: 18.5% (€60,000 / €325,000)
+Note: Within acceptable limits for external R&D services
+
+Heading 8 Analysis (Building/Premises Rental):
+Amount: €15,000.00
+Percentage of Total Direct Costs: 4.6% (€15,000 / €325,000)
+Note: Reasonable allocation for dedicated R&D facilities
+
+===============================================
+TABLE 3: PARTNER BREAKDOWN
+===============================================
+
+APPLICANT (Lead Organization):
+Organization: Technical University Research Institute
+Eligible Costs: €208,562.50 (60% of total project)
+EU Funding Requested: €177,278.13
+Percentage of Total Project: 60.0%
+
+Role: Lead research organization responsible for algorithm development, project coordination, and technical management.
+
+PARTNER NO 1: Industry Collaboration Partner
+Organization: TechSolutions Innovation Ltd
+Eligible Costs: €104,281.25 (30% of total project)
+EU Funding Requested: €88,639.06
+Percentage of Total Project: 30.0%
+
+Role: Industry partner providing commercial validation, market research, and technology transfer support.
+
+PARTNER NO 2: Research Validation Partner
+Organization: European AI Research Consortium
+Eligible Costs: €34,906.25 (10% of total project)
+EU Funding Requested: €29,670.31
+Percentage of Total Project: 10.0%
+
+Role: Independent validation partner for research results and quality assurance.
+
+PARTNER NO 3: Not Participating
+Eligible Costs: €0.00
+EU Funding Requested: €0.00
+Percentage of Total Project: 0.0%
+
+===============================================
+BUDGET COMPLIANCE VERIFICATION
+===============================================
+
+Total Project Budget: €347,750.00
+EU Funding Requested: €295,587.50
+Funding Rate: 85.0%
+Minimum Funding Threshold: €40,000.00 ✅ MET (€347,750 > €40,000)
+
+Indirect Cost Rate: 7% ✅ COMPLIANT (Standard EU rate)
+Partner Distribution: 100.0% ✅ VALID (60% + 30% + 10% + 0% = 100%)
+
+External Services (Lines 4&5): 18.5% ✅ WITHIN LIMITS (<25% threshold)
+Premises Allocation (Heading 8): 4.6% ✅ REASONABLE
+
+===============================================
+PROJECT DELIVERABLES AND MILESTONES
+===============================================
+
+The R&D expenditure supports the following key deliverables:
+1. Advanced AI algorithm prototypes and documentation
+2. Validated machine learning models with performance metrics
+3. IoT integration protocols and security frameworks
+4. Technical publications and patent applications
+5. Technology transfer documentation and commercialization roadmap
+
+All expenditures are directly related to R&D activities and comply with EU funding regulations for innovation projects. The budget allocation ensures optimal resource utilization while maintaining compliance with all financial and administrative requirements.
+{:
+
+"project_info": {:
+
+"project_code": "EU-2024-INNOVATION-7823",:
+
+"organization_name": "Ministry of Education Science and Technology Development Institute",:
+
+"project_duration_months": 36,:
+
+"contribution_rate": 0.014,:
+
+"organization_type": "Budgetary",:
+
+"budgetary_classification": "budgetary":
+
+},:
+
+"job_positions": [:
+
+{:
+
+"eil_no": "1.",:
+
+"project_impact_no": "1.2",:
+
+"action_expenditure_type": "1.2.1",:
+
+"job_title": "Senior Research Analyst",:
+
+"planned_posts": 2,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-03",:
+
+"salary_year": "2024",:
+
+"months_planned": 30,:
+
+"monthly_salary_rate": 2650,:
+
+"allowances_bonuses": 265,:
+
+"increase_percentage": 0.05,:
+
+"increase_amount": 132.5,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 25,:
+
+"annual_leave_allowance_rate": 0.1044,:
+
+"justification": "Position requires PhD qualification",:
+
+"coefficient": "coefficient11",:
+
+"bonus_breakdown": "15% expertise bonus + 10% performance allowance":
+
+},:
+
+{:
+
+"eil_no": "2.",:
+
+"project_impact_no": "1.3",:
+
+"action_expenditure_type": "1.3.1",:
+
+"job_title": "Data Science Specialist",:
+
+"planned_posts": 1,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-06",:
+
+"salary_year": "2024-2025",:
+
+"months_planned": 24,:
+
+"monthly_salary_rate": 2200,:
+
+"allowances_bonuses": 440,:
+
+"increase_percentage": 0.03,:
+
+"increase_amount": 66,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 22,:
+
+"annual_leave_allowance_rate": 0.1044,:
+
+"justification": "Specialist position with Master's degree requirement",:
+
+"coefficient": "coefficient9",:
+
+"bonus_breakdown": "25% technical skills premium":
+
+},:
+
+{:
+
+"eil_no": "3.",:
+
+"project_impact_no": "1.4",:
+
+"action_expenditure_type": "1.4.2",:
+
+"job_title": "Project Coordinator",:
+
+"planned_posts": 1,:
+
+"employment_contract": "Indefinite",:
+
+"recruitment_year": "2024-01",:
+
+"salary_year": "2024",:
+
+"months_planned": 36,:
+
+"monthly_salary_rate": 1850,:
+
+"allowances_bonuses": 185,:
+
+"increase_percentage": 0.04,:
+
+"increase_amount": 74,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 28,:
+
+"annual_leave_allowance_rate": 0.1235,:
+
+"justification": "Administrative position requiring project management certification",:
+
+"coefficient": "coefficient8",:
+
+"bonus_breakdown": "20% management responsibility supplement + 10% multi-project coordination bonus":
+
+},:
+
+{:
+
+"eil_no": "4.",:
+
+"project_impact_no": "2.1",:
+
+"action_expenditure_type": "2.1.3",:
+
+"job_title": "Research Assistant",:
+
+"planned_posts": 3,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-09",:
+
+"salary_year": "2025",:
+
+"months_planned": 18,:
+
+"monthly_salary_rate": 1400,:
+
+"allowances_bonuses": 0,:
+
+"increase_percentage": 0,:
+
+"increase_amount": 0,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 20,:
+
+"annual_leave_allowance_rate": 0.0863,:
+
+"justification": "Entry-level research position requiring Bachelor's degree",:
+
+"coefficient": "coefficient6",:
+
+"bonus_breakdown": "":
+
+},:
+
+{:
+
+"eil_no": "5.",:
+
+"project_impact_no": "2.2",:
+
+"action_expenditure_type": "2.2.1",:
+
+"job_title": "Technical Support Specialist",:
+
+"planned_posts": 1,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-12",:
+
+"salary_year": "2025",:
+
+"months_planned": 15,:
+
+"monthly_salary_rate": 1650,:
+
+"allowances_bonuses": 165,:
+
+"increase_percentage": 0.02,:
+
+"increase_amount": 33,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 24,:
+
+"annual_leave_allowance_rate": 0.1044,:
+
+"justification": "Technical support role requiring specialized IT certifications",:
+
+"coefficient": "coefficient7",:
+
+"bonus_breakdown": "15% technical skills allowance + 5% shift work premium":
+
+},:
+
+{:
+
+"eil_no": "6.",:
+
+"project_impact_no": "3.1",:
+
+"action_expenditure_type": "3.1.1",:
+
+"job_title": "Senior Software Developer",:
+
+"planned_posts": 3,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-04",:
+
+"salary_year": "2024-2025",:
+
+"months_planned": 32,:
+
+"monthly_salary_rate": 2800,:
+
+"allowances_bonuses": 420,:
+
+"increase_percentage": 0.06,:
+
+"increase_amount": 168,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 26,:
+
+"annual_leave_allowance_rate": 0.1235,:
+
+"justification": "Senior development position requiring 5+ years experience",:
+
+"coefficient": "coefficient12",:
+
+"bonus_breakdown": "20% technical leadership bonus + 15% innovation premium":
+
+},:
+
+{:
+
+"eil_no": "7.",:
+
+"project_impact_no": "3.2",:
+
+"action_expenditure_type": "3.2.2",:
+
+"job_title": "Quality Assurance Manager",:
+
+"planned_posts": 1,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-05",:
+
+"salary_year": "2024",:
+
+"months_planned": 28,:
+
+"monthly_salary_rate": 2300,:
+
+"allowances_bonuses": 230,:
+
+"increase_percentage": 0.045,:
+
+"increase_amount": 103.5,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 27,:
+
+"annual_leave_allowance_rate": 0.1235,:
+
+"justification": "Management position requiring quality management certification",:
+
+"coefficient": "coefficient10",:
+
+"bonus_breakdown": "18% quality control premium + 12% management supplement":
+
+},:
+
+{:
+
+"eil_no": "8.",:
+
+"project_impact_no": "3.3",:
+
+"action_expenditure_type": "3.3.1",:
+
+"job_title": "Database Administrator",:
+
+"planned_posts": 1,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-08",:
+
+"salary_year": "2024-2025",:
+
+"months_planned": 20,:
+
+"monthly_salary_rate": 2100,:
+
+"allowances_bonuses": 315,:
+
+"increase_percentage": 0.035,:
+
+"increase_amount": 73.5,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 23,:
+
+"annual_leave_allowance_rate": 0.1044,:
+
+"justification": "Specialized database position requiring Oracle/PostgreSQL certifications",:
+
+"coefficient": "coefficient9",:
+
+"bonus_breakdown": "20% database expertise premium + 10% system critical responsibility allowance":
+
+},:
+
+{:
+
+"eil_no": "9.",:
+
+"project_impact_no": "4.1",:
+
+"action_expenditure_type": "4.1.1",:
+
+"job_title": "Financial Controller",:
+
+"planned_posts": 1,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-02",:
+
+"salary_year": "2024",:
+
+"months_planned": 36,:
+
+"monthly_salary_rate": 2400,:
+
+"allowances_bonuses": 240,:
+
+"increase_percentage": 0.03,:
+
+"increase_amount": 72,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 30,:
+
+"annual_leave_allowance_rate": 0.1235,:
+
+"justification": "Part-time financial oversight position requiring CPA qualification",:
+
+"coefficient": "coefficient10",:
+
+"bonus_breakdown": "15% financial management premium + 10% compliance responsibility bonus":
+
+},:
+
+{:
+
+"eil_no": "10.",:
+
+"project_impact_no": "4.2",:
+
+"action_expenditure_type": "4.2.2",:
+
+"job_title": "Communications Specialist",:
+
+"planned_posts": 1,:
+
+"employment_contract": "Time-limited",:
+
+"recruitment_year": "2024-07",:
+
+"salary_year": "2024-2025",:
+
+"months_planned": 22,:
+
+"monthly_salary_rate": 1900,:
+
+"allowances_bonuses": 190,:
+
+"increase_percentage": 0.025,:
+
+"increase_amount": 47.5,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 25,:
+
+"annual_leave_allowance_rate": 0.1044,:
+
+"justification": "Communications position requiring Master's degree in Communications or related field",:
+
+"coefficient": "coefficient8",:
+
+"bonus_breakdown": "17% public relations premium + 8% multilingual bonus":
+
+}:
+
+]:
+
+}:
+
+{:
+
+"table1_entries": [:
+
+{:
+
+"expenditure_type": "Market Research & Analysis Services",:
+
+"supplier_info": "MarketPro Analytics Ltd, Commercial Offer #MPA-2024-156 dated March20,2024",:
+
+"price_eur": 4500.00,:
+
+"table_number": 1,:
+
+"entry_number": 1:
+
+},:
+
+{:
+
+"expenditure_type": "Consumer Behavior Study",:
+
+"supplier_info": "Research Solutions Baltic, Contract #RSB-2024-089 from April5,2024",:
+
+"price_eur": 3200.00,:
+
+"table_number": 1,:
+
+"entry_number": 2:
+
+},:
+
+{:
+
+"expenditure_type": "Market Size Analysis",:
+
+"supplier_info": "DataInsight Partners, Proposal #DIP-789 dated April15,2024",:
+
+"price_eur": 2800.00,:
+
+"table_number": 1,:
+
+"entry_number": 3:
+
+}:
+
+],:
+
+"table2_entries": [:
+
+{:
+
+"expenditure_type": "Marketing Strategy Development",:
+
+"supplier_info": "Strategic Marketing Group, Commercial Offer #SMG-2024-234 dated May10,2024",:
+
+"price_eur": 5200.00,:
+
+"table_number": 2,:
+
+"entry_number": 1:
+
+},:
+
+{:
+
+"expenditure_type": "Digital Marketing Plan",:
+
+"supplier_info": "DigitalFirst Agency, Contract #DFA-2024-567 from May20,2024",:
+
+"price_eur": 4100.00,:
+
+"table_number": 2,:
+
+"entry_number": 2:
+
+},:
+
+{:
+
+"expenditure_type": "Go-to-Market Strategy",:
+
+"supplier_info": "Market Entry Consultants, Proposal #MEC-445 dated June1,2024",:
+
+"price_eur": 3900.00,:
+
+"table_number": 2,:
+
+"entry_number": 3:
+
+}:
+
+],:
+
+"table3_entries": [:
+
+{:
+
+"expenditure_type": "Brand Development & Positioning",:
+
+"supplier_info": "BrandCraft Studios, Commercial Offer #BCS-2024-789 dated June15,2024",:
+
+"price_eur": 6800.00,:
+
+"table_number": 3,:
+
+"entry_number": 1:
+
+},:
+
+{:
+
+"expenditure_type": "Visual Identity Creation",:
+
+"supplier_info": "Creative Design House, Contract #CDH-2024-234 from July2,2024",:
+
+"price_eur": 4200.00,:
+
+"table_number": 3,:
+
+"entry_number": 2:
+
+},:
+
+{:
+
+"expenditure_type": "Brand Messaging Strategy",:
+
+"supplier_info": "Communications Pro, Proposal #CP-567 dated July20,2024",:
+
+"price_eur": 3500.00,:
+
+"table_number": 3,:
+
+"entry_number": 3:
+
+}:
+
+],:
+
+"table4_entries": [:
+
+{:
+
+"expenditure_type": "Market Testing & Validation",:
+
+"supplier_info": "TestLab Solutions, Commercial Offer #TLS-2024-456 dated August5,2024",:
+
+"price_eur": 5500.00,:
+
+"table_number": 4,:
+
+"entry_number": 1:
+
+},:
+
+{:
+
+"expenditure_type": "Customer Feedback Analysis",:
+
+"supplier_info": "Feedback Dynamics, Contract #FD-2024-123 from August20,2024",:
+
+"price_eur": 3800.00,:
+
+"table_number": 4,:
+
+"entry_number": 2:
+
+},:
+
+{:
+
+"expenditure_type": "Product-Market Fit Assessment",:
+
+"supplier_info": "Market Validation Corp, Proposal #MVC-789 dated September1,2024",:
+
+"price_eur": 4200.00,:
+
+"table_number": 4,:
+
+"entry_number": 3:
+
+}:
+
+],:
+
+"table5_entries": [:
+
+{:
+
+"expenditure_type": "Market Entry Support",:
+
+"supplier_info": "Launch Specialists Inc, Commercial Offer #LSI-2024-345 dated September15,2024",:
+
+"price_eur": 7200.00,:
+
+"table_number": 5,:
+
+"entry_number": 1:
+
+},:
+
+{:
+
+"expenditure_type": "Launch Campaign Management",:
+
+"supplier_info": "Campaign Masters, Contract #CM-2024-678 from October1,2024",:
+
+"price_eur": 5800.00,:
+
+"table_number": 5,:
+
+"entry_number": 2:
+
+},:
+
+{:
+
+"expenditure_type": "Market Penetration Strategy",:
+
+"supplier_info": "Growth Accelerators, Proposal #GA-234 dated October15,2024",:
+
+"price_eur": 4900.00,:
+
+"table_number": 5,:
+
+"entry_number": 3:
+
+}:
+
+]:
+
+}:
+
+{:
+
+"contractors": [:
+
+{:
+
+"type_of_contractor": "Applicant",:
+
+"legal_entity": "Public Institution",:
+
+"eligible_costs": 100000.00,:
+
+"funding_requested": 85000.00:
+
+},:
+
+{:
+
+"type_of_contractor": "Partner No1",:
+
+"legal_entity": "Private Company",:
+
+"eligible_costs": 50000.00,:
+
+"funding_requested": 42500.00:
+
+},:
+
+{:
+
+"type_of_contractor": "Subcontractor",:
+
+"legal_entity": "Law Firm",:
+
+"eligible_costs": 45000.00,:
+
+"funding_requested": 38250.00:
+
+},:
+
+{:
+
+"type_of_contractor": "Patent Attorney",:
+
+"legal_entity": "Law Firm",:
+
+"eligible_costs": 45000.00,:
+
+"funding_requested": 38250.00:
+
+},:
+
+{:
+
+"type_of_contractor": "Technology Transfer Office",:
+
+"legal_entity": "Partnership",:
+
+"eligible_costs": 72000.00,:
+
+"funding_requested": 61200.00:
+
+}:
+
+]:
+
+}:
+
+{:
+
+"project_info": {:
+
+"project_code": "INNOV-TECH-2024-456",:
+
+"organization_name": "TechInnovate Solutions Ltd",:
+
+"project_duration_months": 24,:
+
+"contribution_rate": 0.046,:
+
+"organization_type": "Businesses, etc.",:
+
+"budgetary_classification": "non-budgetary":
+
+},:
+
+"job_positions": [:
+
+{:
+
+"eil_no": "1",:
+
+"project_impact_no": "1.2",:
+
+"action_expenditure_no": "1.2.1",:
+
+"duties_in_orp": "Lead AI Research and Development activities",:
+
+"position_function": "Chief Technology Officer",:
+
+"employee_name": "Dr. Elena Vasquez",:
+
+"employment_contract_type": "Indefinite",:
+
+"remuneration_year": "2024",:
+
+"months_hours_planned": 200,:
+
+"planned_salary_rate": 45.50,:
+
+"increase_percentage": 0.08,:
+
+"increase_amount": 3.64,:
+
+"total_excluding_contribution": 48.14,:
+
+"total_including_contribution": 51.00,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 25,:
+
+"annual_leave_rate": 0.1044,:
+
+"annual_leave_cost": 532.38,:
+
+"total_rd_fee": 53938.38,:
+
+"total_planned_remuneration": 53986.38,:
+
+"justification": "Hourly rate calculated from institutional CTO salary data",:
+
+"coefficient": "",:
+
+"bonus_breakdown": "":
+
+},:
+
+{:
+
+"eil_no": "2",:
+
+"project_impact_no": "1.3",:
+
+"action_expenditure_no": "1.3.1",:
+
+"duties_in_orp": "Machine Learning Algorithm Development",:
+
+"position_function": "Senior Software Engineer",:
+
+"employee_name": "Mindaugas Petrauskas",:
+
+"employment_contract_type": "Time-limited",:
+
+"remuneration_year": "2024",:
+
+"months_hours_planned": 350,:
+
+"planned_salary_rate": 32.75,:
+
+"increase_percentage": 0.05,:
+
+"increase_amount": 1.64,:
+
+"total_excluding_contribution": 34.39,:
+
+"total_including_contribution": 36.37,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 22,:
+
+"annual_leave_rate": 0.1044,:
+
+"annual_leave_cost": 379.18,:
+
+"total_rd_fee": 12727.18,:
+
+"total_planned_remuneration": 12765.18,:
+
+"justification": "Rate based on company's senior engineer pay scale",:
+
+"coefficient": "",:
+
+"bonus_breakdown": "":
+
+},:
+
+{:
+
+"eil_no": "3",:
+
+"project_impact_no": "1.4",:
+
+"action_expenditure_no": "1.4.2",:
+
+"duties_in_orp": "Data Analysis and Visualization",:
+
+"position_function": "Data Analyst",:
+
+"employee_name": "Laura Kazlauskaite",:
+
+"employment_contract_type": "Indefinite",:
+
+"remuneration_year": "2024-2025",:
+
+"months_hours_planned": 280,:
+
+"planned_salary_rate": 28,:
+
+"increase_percentage": 0.03,:
+
+"increase_amount": 0.84,:
+
+"total_excluding_contribution": 28.84,:
+
+"total_including_contribution": 30.49,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 20,:
+
+"annual_leave_rate": 0.0863,:
+
+"annual_leave_cost": 498.44,:
+
+"total_rd_fee": 15077.44,:
+
+"total_planned_remuneration": 15106.44,:
+
+"justification": "Rate aligned with Lithuanian State Data Agency statistics",:
+
+"coefficient": "",:
+
+"bonus_breakdown": "":
+
+},:
+
+{:
+
+"eil_no": "4",:
+
+"project_impact_no": "2.1",:
+
+"action_expenditure_no": "2.1.3",:
+
+"duties_in_orp": "Project Management and Coordination",:
+
+"position_function": "Project Manager",:
+
+"employee_name": "Tomas Jankauskas",:
+
+"employment_contract_type": "Time-limited",:
+
+"remuneration_year": "2024",:
+
+"months_hours_planned": 400,:
+
+"planned_salary_rate": 35.2,:
+
+"increase_percentage": 0.04,:
+
+"increase_amount": 1.41,:
+
+"total_excluding_contribution": 36.61,:
+
+"total_including_contribution": 38.71,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 26,:
+
+"annual_leave_rate": 0.1235,:
+
+"annual_leave_cost": 904.67,:
+
+"total_rd_fee": 24375.67,:
+
+"total_planned_remuneration": 24410.67,:
+
+"justification": "Rate based on institutional project manager salary band",:
+
+"coefficient": "",:
+
+"bonus_breakdown": "":
+
+},:
+
+{:
+
+"eil_no": "5",:
+
+"project_impact_no": "2.2",:
+
+"action_expenditure_no": "2.2.1",:
+
+"duties_in_orp": "Software Quality Assurance Testing",:
+
+"position_function": "QA Engineer",:
+
+"employee_name": "Ruta Stonkiene",:
+
+"employment_contract_type": "Indefinite",:
+
+"remuneration_year": "2025",:
+
+"months_hours_planned": 180,:
+
+"planned_salary_rate": 25.8,:
+
+"increase_percentage": 0.06,:
+
+"increase_amount": 1.55,:
+
+"total_excluding_contribution": 27.35,:
+
+"total_including_contribution": 28.93,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 21,:
+
+"annual_leave_rate": 0.1044,:
+
+"annual_leave_cost": 562.29,:
+
+"total_rd_fee": 10086.29,:
+
+"total_planned_remuneration": 10114.29,:
+
+"justification": "Rate established using company's QA engineer payroll data",:
+
+"coefficient": "",:
+
+"bonus_breakdown": "":
+
+},:
+
+{:
+
+"eil_no": "6",:
+
+"project_impact_no": "3.1",:
+
+"action_expenditure_no": "3.1.1",:
+
+"duties_in_orp": "Technical Documentation and User Support",:
+
+"position_function": "Technical Writer",:
+
+"employee_name": "Kristina Petriene",:
+
+"employment_contract_type": "Time-limited",:
+
+"remuneration_year": "2024",:
+
+"months_hours_planned": 120,:
+
+"planned_salary_rate": 22.5,:
+
+"increase_percentage": 0,:
+
+"increase_amount": 0,:
+
+"total_excluding_contribution": 22.5,:
+
+"total_including_contribution": 23.76,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 25,:
+
+"annual_leave_rate": 0.1044,:
+
+"annual_leave_cost": 234.81,:
+
+"total_rd_fee": 4755.81,:
+
+"total_planned_remuneration": 4760.81,:
+
+"justification": "Rate based on Lithuanian Writers Union freelance technical writing rates survey",:
+
+"coefficient": "",:
+
+"bonus_breakdown": "":
+
+},:
+
+{:
+
+"eil_no": "7",:
+
+"project_impact_no": "3.2",:
+
+"action_expenditure_no": "3.2.2",:
+
+"duties_in_orp": "Financial Analysis and Reporting",:
+
+"position_function": "Financial Analyst",:
+
+"employee_name": "Vytautas Rimkus",:
+
+"employment_contract_type": "Indefinite",:
+
+"remuneration_year": "2024-2025",:
+
+"months_hours_planned": 160,:
+
+"planned_salary_rate": 30.25,:
+
+"increase_percentage": 0.025,:
+
+"increase_amount": 0.76,:
+
+"total_excluding_contribution": 31.01,:
+
+"total_including_contribution": 32.73,:
+
+"working_week_length": 5,:
+
+"annual_leave_days": 23,:
+
+"annual_leave_rate": 0.1044,:
+
+"annual_leave_cost": 319.22,:
+
+"total_rd_fee": 5322.22,:
+
+"total_planned_remuneration": 5326.22,:
+
+"justification": "Rate calculated from institutional financial analyst position",:
+
+"coefficient": "",:
+
+"bonus_breakdown": "":
+
+}:
+
+]:
+
+}:
+
+
+--- ADDITIONAL INFORMATION ---
+project_end_date: December 31, 2026
+premises_rental: 1. Medical Research Laboratory
+detailed product sales data for all 15 products: - Premises Address: MedTech Research Park, Building A, Floor 3, Vilnius
+unit prices and total revenues for all products and time periods: - Description: 400 square meter BSL-2 certified laboratory with cleanroom facilities
+Specific funding requested for each contractor: - Monthly Rental Cost: 4200 EUR
+   - Lease Duration: 36 months
+   - Total Rental Cost: 151200 EUR
+   - Rental Units: Monthly lease
+   - Quantity: 36 months
+   - Unit Price: 4200 EUR per month
+   - Eligible Costs: 151200 EUR
+   - Funding Requested: 113400 EUR
+
+--- ADDITIONAL INFORMATION ---
+TABLE1 indirect_costs for each impact: For TABLE1, the indirect_costs field refers to the overhead expenses that support the project but are not directly tied to a specific activity. These include items such as administration, utilities, rent, and other operational costs. In the Lithuanian R&D Excel forms, each project impact (such as scientific impact, economic impact, or societal impact) has both direct costs and indirect costs. Indirect costs are typically calculated as a fixed percentage of the eligible direct costs, usually between 10% and 25%, depending on the funding programme rules. For example, if the direct costs for “scientific publications” are €10,000, the indirect costs at 15% would be €1,500.
+
+
+--- ADDITIONAL INFORMATION ---
+TABLE1 indirect_costs for each impact: For TABLE1, the indirect_costs field refers to the overhead expenses that support the project but are not directly tied to a specific activity. These include items such as administration, utilities, rent, and other operational costs. In the Lithuanian R&D Excel forms, each project impact (such as scientific impact, economic impact, or societal impact) has both direct costs and indirect costs. Indirect costs are typically calculated as a fixed percentage of the eligible direct costs, usually between 10% and 25%, depending on the funding programme rules. For example, if the direct costs for “scientific publications” are €10,000, the indirect costs at 15% would be €1,500.
+TABLE2 category_title for each category: For TABLE2, the category_title field is the human-readable name for each budget category in the cost breakdown section of the form. Typical category titles include “Personnel costs,” “Equipment,” “Consumables,” “Travel & subsistence,” “Subcontracting,” and “Overheads.” These appear in the 1A attachment of the Lithuanian R&D Excel form and are essential for clearly defining where funds are allocated.
+
+
+--- ADDITIONAL INFORMATION ---
+TABLE1 indirect_costs for each impact: For TABLE1, the indirect_costs field refers to the overhead expenses that support the project but are not directly tied to a specific activity. These include items such as administration, utilities, rent, and other operational costs. In the Lithuanian R&D Excel forms, each project impact (such as scientific impact, economic impact, or societal impact) has both direct costs and indirect costs. Indirect costs are typically calculated as a fixed percentage of the eligible direct costs, usually between 10% and 25%, depending on the funding programme rules. For example, if the direct costs for “scientific publications” are €10,000, the indirect costs at 15% would be €1,500.
+TABLE2 category_title for each category: For TABLE2, the category_title field is the human-readable name for each budget category in the cost breakdown section of the form. Typical category titles include “Personnel costs,” “Equipment,” “Consumables,” “Travel & subsistence,” “Subcontracting,” and “Overheads.” These appear in the 1A attachment of the Lithuanian R&D Excel form and are essential for clearly defining where funds are allocated.
+TABLE3 funding_requested for each partner: For TABLE3, the funding_requested field specifies the exact amount each consortium partner is requesting from the Lithuanian R&D funding body. For example, UAB InoStartas might have a total budget of €100,000 but request €80,000 in funding, while Vilnius University might request €50,000 for a €50,000 budget. Alongside this, the percentage field in TABLE3 represents each partner’s share of the total project budget, calculated as funding requested divided by the total project budget, multiplied by 100. In the previous example, UAB InoStartas would account for 61.54% and Vilnius University for 38.46% of the funding share.
+TABLE3 percentage for each partner: In TABLE3, the percentage for each partner represents that partner’s share of the total project budget expressed as a percentage. It is calculated by dividing the partner’s funding requested amount by the total project budget and then multiplying by 100. This field is important because Lithuanian R&D funding forms require not only the raw funding figures but also the proportion of the project each partner is responsible for financially. For example, if Partner A requests €80,000 from a total project budget of €130,000, their percentage would be  ( 80 , 000 ÷ 130 , 000 ) × 100 (80,000÷130,000)×100 = 61.54%, and if Partner B requests €50,000, their percentage would be 38.46%. These percentages help evaluators quickly understand how the budget is distributed across the consortium.
+TABLE2 category_id for each category: For TABLE2 again, the category_id field is a numeric or coded identifier for each budget category, as defined in the official Lithuanian R&D form template. This ensures the funding system correctly maps each category during submission. For instance, “Personnel costs” may have an ID of 1, “Equipment” an ID of 2, “Consumables” an ID of 3, “Travel & subsistence” an ID of 4, “Subcontracting” an ID of 5, and “Overheads” an ID of 6.
+
+Additional Information:
+Lastly, the Additional Information section is a free-text field that can be used to include clarifications, justifications for unusual costs, special funding conditions, or notes on how certain values were derived. For example, you might note: “Indirect costs calculated at 15% of direct eligible costs according to Lithuanian R&D funding rules. Partner percentages rounded to the nearest 0.1%.”
+
+
+--- ADDITIONAL INFORMATION ---
+TABLE1 indirect_costs for each impact: For TABLE1, the indirect_costs field refers to the overhead expenses that support the project but are not directly tied to a specific activity. These include items such as administration, utilities, rent, and other operational costs. In the Lithuanian R&D Excel forms, each project impact (such as scientific impact, economic impact, or societal impact) has both direct costs and indirect costs. Indirect costs are typically calculated as a fixed percentage of the eligible direct costs, usually between 10% and 25%, depending on the funding programme rules. For example, if the direct costs for “scientific publications” are €10,000, the indirect costs at 15% would be €1,500.
+TABLE2 category_title for each category: For TABLE2, the category_title field is the human-readable name for each budget category in the cost breakdown section of the form. Typical category titles include “Personnel costs,” “Equipment,” “Consumables,” “Travel & subsistence,” “Subcontracting,” and “Overheads.” These appear in the 1A attachment of the Lithuanian R&D Excel form and are essential for clearly defining where funds are allocated.
+TABLE3 funding_requested for each partner: For TABLE3, the funding_requested field specifies the exact amount each consortium partner is requesting from the Lithuanian R&D funding body. For example, UAB InoStartas might have a total budget of €100,000 but request €80,000 in funding, while Vilnius University might request €50,000 for a €50,000 budget. Alongside this, the percentage field in TABLE3 represents each partner’s share of the total project budget, calculated as funding requested divided by the total project budget, multiplied by 100. In the previous example, UAB InoStartas would account for 61.54% and Vilnius University for 38.46% of the funding share.
+TABLE3 percentage for each partner: In TABLE3, the percentage for each partner represents that partner’s share of the total project budget expressed as a percentage. It is calculated by dividing the partner’s funding requested amount by the total project budget and then multiplying by 100. This field is important because Lithuanian R&D funding forms require not only the raw funding figures but also the proportion of the project each partner is responsible for financially. For example, if Partner A requests €80,000 from a total project budget of €130,000, their percentage would be  ( 80 , 000 ÷ 130 , 000 ) × 100 (80,000÷130,000)×100 = 61.54%, and if Partner B requests €50,000, their percentage would be 38.46%. These percentages help evaluators quickly understand how the budget is distributed across the consortium.
+TABLE2 category_id for each category: For TABLE2 again, the category_id field is a numeric or coded identifier for each budget category, as defined in the official Lithuanian R&D form template. This ensures the funding system correctly maps each category during submission. For instance, “Personnel costs” may have an ID of 1, “Equipment” an ID of 2, “Consumables” an ID of 3, “Travel & subsistence” an ID of 4, “Subcontracting” an ID of 5, and “Overheads” an ID of 6.
+
+Additional Information:
+Lastly, the Additional Information section is a free-text field that can be used to include clarifications, justifications for unusual costs, special funding conditions, or notes on how certain values were derived. For example, you might note: “Indirect costs calculated at 15% of direct eligible costs according to Lithuanian R&D funding rules. Partner percentages rounded to the nearest 0.1%.”
+
+
+--- HYBRID DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---
+
+
+--- AI-GENERATED DATA COMPLETION ---

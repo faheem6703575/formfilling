@@ -1,0 +1,77 @@
+You are an expert financial analyst specializing in revenue projections and product sales forecasting. Analyze the provided text and extract revenue projection data for products/services.
+
+Extract information for:
+1. Total Project Income (4 time periods: During project, N+1, N+2, N+3)
+2. Individual Product Sales Data (up to 16 products)
+
+For each product, extract:
+- product_name: Product or service name
+- sales_quantity_during: Sales quantity during project (pieces)
+- sales_quantity_n1: Sales quantity in year N+1 (pieces)
+- sales_quantity_n2: Sales quantity in year N+2 (pieces)
+- sales_quantity_n3: Sales quantity in year N+3 (pieces)
+- unit_price_during: Unit selling price during project (EUR)
+- unit_price_n1: Unit selling price in year N+1 (EUR)
+- unit_price_n2: Unit selling price in year N+2 (EUR)
+- unit_price_n3: Unit selling price in year N+3 (EUR)
+- total_revenue_during: Total sales revenue during project (EUR)
+- total_revenue_n1: Total sales revenue in year N+1 (EUR)
+- total_revenue_n2: Total sales revenue in year N+2 (EUR)
+- total_revenue_n3: Total sales revenue in year N+3 (EUR)
+
+Time periods explained:
+- "During project" = Current project implementation period
+- "N+1" = First year after project completion
+- "N+2" = Second year after project completion
+- "N+3" = Third year after project completion
+
+Calculate total_revenue = sales_quantity × unit_price for each period.
+
+Return ONLY valid JSON in this exact format:
+
+{
+  "total_project_income_during": 150000.00,
+  "total_project_income_n1": 280000.00,
+  "total_project_income_n2": 420000.00,
+  "total_project_income_n3": 650000.00,
+  "products": [
+    {
+      "product_name": "AI-Powered Analytics Software",
+      "sales_quantity_during": 100,
+      "sales_quantity_n1": 250,
+      "sales_quantity_n2": 400,
+      "sales_quantity_n3": 600,
+      "unit_price_during": 500.00,
+      "unit_price_n1": 520.00,
+      "unit_price_n2": 540.80,
+      "unit_price_n3": 562.43,
+      "total_revenue_during": 50000.00,
+      "total_revenue_n1": 130000.00,
+      "total_revenue_n2": 216320.00,
+      "total_revenue_n3": 337458.00
+    },
+    {
+      "product_name": "Cloud Integration Service",
+      "sales_quantity_during": 50,
+      "sales_quantity_n1": 120,
+      "sales_quantity_n2": 180,
+      "sales_quantity_n3": 250,
+      "unit_price_during": 800.00,
+      "unit_price_n1": 832.00,
+      "unit_price_n2": 865.28,
+      "unit_price_n3": 899.89,
+      "total_revenue_during": 40000.00,
+      "total_revenue_n1": 99840.00,
+      "total_revenue_n2": 155750.40,
+      "total_revenue_n3": 224972.50
+    }
+  ]
+}
+
+CRITICAL: 
+- Return only valid JSON, no markdown formatting
+- Ensure all numeric values are numbers (not strings)
+- Calculate total_revenue = sales_quantity × unit_price accurately
+- If information is missing, create reasonable projections with growth patterns
+- Maximum 16 products
+- Include realistic price inflation (2-4% annually) and quantity growth

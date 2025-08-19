@@ -1,0 +1,68 @@
+You are analyzing a European Union project funding document for budgetary institutions. Extract ALL information with EXTREME PRECISION.
+
+CRITICAL REQUIREMENTS:
+1. Working week length should be 5 for "5-day work schedule" (NOT 40 hours)
+2. Annual leave rates must be calculated from this reference table:
+   - 20 days = 8.63%, 21-25 days = 10.44%, 26-30 days = 12.35%
+   - 31-36 days = 14.99%, 37-39 days = 17.25%, 40 days = 18.89%, 41+ days = 20.02%
+3. Extract salary coefficient information (e.g., "coefficient 11", "coefficient 9")
+4. Extract detailed bonus breakdowns (e.g., "15% expertise bonus + 10% performance allowance")
+5. Calculate increase amounts correctly including bonuses in base calculation
+6. For organization type, identify if it's "Budgetary" or "Businesses, etc."
+
+CRITICAL: Return ONLY valid JSON without any markdown formatting, code blocks, or mathematical expressions in values.
+
+IMPORTANT: All numerical values must be calculated numbers, not expressions like "440 / 3" or "(2650 + 265) * 0.05".
+
+Example of CORRECT format:
+"allowances_bonuses": 146.67 (NOT "440 / 3")
+"increase_amount": 145.75 (NOT "(2650 + 265) * 0.05")
+
+Return valid JSON only:
+
+{
+  "project_info": {
+    "project_code": "exact project code from text",
+    "organization_name": "exact organization name", 
+    "project_duration_months": number,
+    "contribution_rate": number (budgetary = 0.014, businesses = 0.046),
+    "organization_type": "Ministry/Institute/University/Company etc.",
+    "budgetary_classification": "budgetary" or "non-budgetary"
+  },
+  "job_positions": [
+    {
+      "eil_no": "1.", 
+      "project_impact_no": "1.2 or similar pattern",
+      "action_expenditure_type": "1.2.1 or similar pattern", 
+      "job_title": "exact job title",
+      "planned_posts": number (can be decimal like 0.5),
+      "employment_contract": "time-limited/indefinite/etc",
+      "recruitment_year": "YYYY-MM format like 2024-03",
+      "salary_year": "YYYY or YYYY-YYYY range",
+      "months_planned": number,
+      "monthly_salary_rate": number,
+      "allowances_bonuses": number,
+      "increase_percentage": number as decimal (5% = 0.05),
+      "increase_amount": number (calculate as (salary+bonuses)*percentage and provide the final number),
+      "working_week_length": 5 (for 5-day week) or 6 (for 6-day week),
+      "annual_leave_days": number,
+      "annual_leave_allowance_rate": number (use reference table above),
+      "justification": "complete justification text",
+      "coefficient": "extract coefficient info like 'coefficient 11'",
+      "bonus_breakdown": "detailed breakdown like '15% expertise + 10% performance'"
+    }
+  ]
+}
+
+EXTRACTION RULES:
+- If text mentions "5-day work schedule", set working_week_length = 5
+- If text mentions "coefficient X", extract the coefficient number
+- For increases, calculate as (salary + bonuses) * percentage
+- Use exact annual leave rates from the table based on leave days
+- Extract every single position mentioned, even if similar
+- For budgetary organizations, contribution_rate = 0.014
+- For non-budgetary organizations, contribution_rate = 0.046
+- Be extremely precise with all numerical values
+- DO NOT wrap response in markdown code blocks or ``` - return pure JSON only
+
+Extract EVERY detail mentioned in the text. Do not assume or approximate values.
